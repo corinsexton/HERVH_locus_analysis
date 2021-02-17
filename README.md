@@ -35,5 +35,15 @@ flanked:LTR7B_LTR7_HERVH-int:1729
 ```
 
 
+### Future Figures
 
+1. Upset Plot: (goal: comparisons among studies)
+- enhancers
+- expression
+- CHIP
+
+2. Data Summary:
+- include data about which LTR7[ABCY] is most abundant in which category (solo, flanked, nonflanked)
+- LTR position (5' to 3')
+- strandedness bias?
 
