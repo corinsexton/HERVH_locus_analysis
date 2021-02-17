@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#awk '{print $2"\t"$3"\t"$4"\tGSE64758_"$1}' GROseq-H1_ESCs-GSE64758.txt > GROseq-H1_ESCs-GSE64758_hg19.bed
+#awk '{print $2"\t"$3"\t"$4"\tGSE61393_"$1}' GROseq-H1_ESCs-GSE61393.txt > GROseq-H1_ESCs-GSE61393_hg19.bed
+#awk '{print $2"\t"$3"\t"$4"\tGSE41009_"$1}' GROseq-H1_ESCs-GSE41009.txt > GROseq-H1_ESCs-GSE41009_hg19.bed
+#awk '{print $2"\t"$3"\t"$4"\tE-MTAB-742_"$1}' GROseq-H1-E-MTAB-742.txt > GROseq-H1_ESCs-E-MTAB-742_hg19.bed
+
+
+../../../util/liftOver GROseq-H1_ESCs-GSE64758_hg19.bed ../../../util/hg19ToHg38.over.chain.gz ../../../hg38_liftover_data/GRO-Seq/wang_et_al_HACER/GROseq-H1_ESCs-GSE64758_hg38.bed z
+../../../util/liftOver GROseq-H1_ESCs-GSE61393_hg19.bed ../../../util/hg19ToHg38.over.chain.gz ../../../hg38_liftover_data/GRO-Seq/wang_et_al_HACER/GROseq-H1_ESCs-GSE61393_hg38.bed z
+../../../util/liftOver GROseq-H1_ESCs-GSE41009_hg19.bed ../../../util/hg19ToHg38.over.chain.gz ../../../hg38_liftover_data/GRO-Seq/wang_et_al_HACER/GROseq-H1_ESCs-GSE41009_hg38.bed z
+../../../util/liftOver GROseq-H1_ESCs-E-MTAB-742_hg19.bed ../../../util/hg19ToHg38.over.chain.gz ../../../hg38_liftover_data/GRO-Seq/wang_et_al_HACER/GROseq-H1_ESCs-E-MTAB-742_hg38.bed z

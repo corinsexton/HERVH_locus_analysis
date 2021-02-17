@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# didn't work because weird line endings (used Numbers on local machine to parse)
+# awk '{print $5"\t"$6"\t"$7"\t"$1}' ENdb_enhancer.txt > ENdb_enhancer_hg19.bed
+
+
+../../util/liftOver ENdb_enhancer_hg19.bed ../../util/hg19ToHg38.over.chain.gz ../../hg38_liftover_data/ENdb/ENdb_enhancer_hg38.bed z
