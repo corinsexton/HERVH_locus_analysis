@@ -4,10 +4,10 @@ outfile = open("HERVH_rename.tsv",'w')
 files = ["HERVH_soloLTRs.bed","HERVH_solo_HERVHint.bed", "HERVH_flankLTRs.bed", "HERVH_nonflankingLTRS.bed"]
 labels = ['solo', 'solo','flanked','nonflanked']
 
+counter = 1
 for i in range(len(files)):
 	infile = open(files[i],'r')
 
-	counter = 1
 	master_label = labels[i]
 
 		
