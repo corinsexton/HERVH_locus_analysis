@@ -40,6 +40,11 @@ grep 'LTR7' HERVH_nonflankLTRs.bed > HERVH_nonflankingLTRS.bed
 
 
 
-
-
 ./make_key.py # which outputs HERVH_rename.tsv
+
+# edit with vim 98080082 label as middle (nonflanking that's not 5 or 3 prime)
+
+# convert ot bedfile
+
+# cols = chr  pos1  pos2  label  num_elements  strand
+awk '{print $1"\t"$2"\t"$3"\t"$7"\t"$4"\t"$6}' HERVH_rename.tsv > HERVH_final.bed
