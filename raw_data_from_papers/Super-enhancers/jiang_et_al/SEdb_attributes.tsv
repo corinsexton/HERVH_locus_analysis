@@ -1,0 +1,543 @@
+#Sample ID	Data sources	Biosample type	Tissue type	Biosample name	Sample	Series	H3K27ac	Input
+Sample_00_001	Roadmap	Tissue	Adipose tissue	adipose-tissue	adipose-tissue	GSE16256	ENCSR082SHT	ENCSR163VJS
+Sample_00_002	Roadmap	Tissue	Adrenal gland	adrenal-gland_34y	adrenal-gland	GSE16256	ENCSR405ESP	ENCSR815BDB
+Sample_00_003	Roadmap	Tissue	Adrenal gland	adrenal-gland_97d	adrenal-gland	GSE18927	ENCSR847AIA	ENCSR960VLF
+Sample_00_004	Roadmap	Tissue	Aorta	aorta	aorta	GSE16256	ENCSR322TJD	ENCSR116QUS
+Sample_00_005	Roadmap	Primary cell	Blood	B-cell	B-cell	GSE18927	ENCSR191ZQT	ENCSR300ZUS
+Sample_00_006	Roadmap	Primary cell	Blood	CD14-positive-monocyte	CD14-positive-monocyte	GSE18927	ENCSR012PII	ENCSR444GJM
+Sample_00_007	Roadmap	Primary cell	Blood	"naive thymus-derived CD4-positive, alpha-beta T cell"	"naive thymus-derived CD4-positive, alpha-beta T cell"	GSE17312	ENCSR674VPA	ENCSR355RJN
+Sample_00_008	Roadmap	Primary cell	Blood	CD4-positive-alpha-beta-memory-T-cell	"CD4-positive,-alpha-beta-memory-T-cell"	GSE17312	ENCSR314BEX	ENCSR595SMV
+Sample_00_009	Roadmap	Primary cell	Blood	CD8-positive-alpha-beta-T-cell	"CD8-positive,-alpha-beta-T-cell"	GSE18927	ENCSR007HLH	ENCSR247BVB
+Sample_00_010	Roadmap	In vitro differentiated cells	Embryo	endodermal-cell	endodermal-cell	GSE17312	ENCSR200ETW	ENCSR650EVQ
+Sample_00_011	Roadmap	Tissue	Esophagus	esophagus	esophagus	GSE16256	ENCSR679OVD	ENCSR161JTT
+Sample_00_012	Roadmap	Stem cell	Embryo	H1-hESC	H1-hESC	GSE16256	ENCSR880SUY	ENCSR569NEE
+Sample_00_013	Roadmap	Stem cell	Embryo	H9	H9	GSE16256	ENCSR876RGF	ENCSR214MNL
+Sample_00_014	Roadmap	Tissue	Heart left ventricle	heart-left-ventricle	heart-left-ventricle	GSE16256	ENCSR458RRZ	ENCSR961QMI
+Sample_00_015	Roadmap	Cell line	Lung	IMR-90	IMR-90	GSE16256	ENCSR002YRE	ENCSR001BSB
+Sample_00_016	Roadmap	Induced pluripotent stem cell line	Foreskin 	iPS-DF-19.11	iPS-DF-19.11	GSE16256	ENCSR505OPZ	ENCSR086NVH
+Sample_00_017	Roadmap	Induced pluripotent stem cell line	Foreskin 	iPS-DF-6.9	iPS-DF-6.9	GSE16256	ENCSR875QDS	ENCSR212SJH
+Sample_00_018	Roadmap	Induced pluripotent stem cell line	Dermal fibroblasts	iPS-18a	iPS-18a	GSE17312	ENCSR429YAE	ENCSR580WGM
+Sample_00_019	Roadmap	Induced pluripotent stem cell line	Dermal fibroblasts	iPS-20b	iPS-20b	GSE17312	ENCSR729GQT	ENCSR895CJW
+Sample_00_020	Roadmap	Tissue	Large intestine	large-intestine_108d	large-intestine	GSE18927	ENCSR659RHV	ENCSR107RQX
+Sample_00_021	Roadmap	Tissue	Lung	lung_3y	lung	GSE16256	ENCSR550WUX	ENCSR577BCL
+Sample_00_022	Roadmap	Tissue	Lung	lung_30y	lung	GSE16256	ENCSR540ADS	ENCSR061VJM
+Sample_00_023	Roadmap	In vitro differentiated cells	Embryo	mesenchymal-stem-cell	mesenchymal-stem-cell	GSE16256	ENCSR013KEC	ENCSR843OBM
+Sample_00_024	Roadmap	In vitro differentiated cells	Embryo	mesendoderm	mesendoderm	GSE16256	ENCSR473PNT	ENCSR810RRR
+Sample_00_025	Roadmap	Tissue	Muscle of leg	muscle-of-leg	muscle-of-leg	GSE18927	ENCSR687ZCM	ENCSR449RSE
+Sample_00_026	Roadmap	Tissue	Muscle of trunk	muscle-of-trunk	muscle-of-trunk	GSE18927	ENCSR775FTU	ENCSR639HUV
+Sample_00_027	Roadmap	Primary cell	Blood	natural-killer-cell	natural-killer-cell	GSE18927	ENCSR391EQV	ENCSR726FHN
+Sample_00_029	Roadmap	Tissue	Ovary	ovary	ovary	GSE16256	ENCSR268JQE	ENCSR674QIU
+Sample_00_030	Roadmap	Tissue	Pancreas	pancreas	pancreas	GSE16256	ENCSR612BWE	ENCSR503BIB
+Sample_00_031	Roadmap	Tissue	Placenta	placenta	placenta	GSE18927	ENCSR498ZRC	ENCSR278VUZ
+Sample_00_032	Roadmap	Tissue	Psoas muscle	psoas-muscle_30y	psoas-muscle	GSE16256	ENCSR250NHD	ENCSR139WMA
+Sample_00_033	Roadmap	Tissue	Psoas muscle	psoas-muscle_3y	psoas-muscle	GSE16256	ENCSR367WYJ	ENCSR163UEW
+Sample_00_034	Roadmap	Tissue	Right cardiac atrium	right-cardiac-atrium	right-cardiac-atrium	GSE16256	ENCSR074ECR	ENCSR652ULP
+Sample_00_035	Roadmap	Tissue	Sigmoid colon	sigmoid-colon	sigmoid-colon	GSE16256	ENCSR561YSH	ENCSR574WQE
+Sample_00_036	Roadmap	Tissue	Small intestine	small-intestine_108days	small-intestine	GSE18927	ENCSR892XFG	ENCSR541DBO
+Sample_00_038	Roadmap	Tissue	Spinal cord	spinal-cord_108d	spinal-cord	GSE18927	ENCSR209QGZ	ENCSR113XPE
+Sample_00_039	Roadmap	Tissue	Spleen	spleen_3y	spleen	GSE16256	ENCSR170MAJ	ENCSR652ZLE
+Sample_00_040	Roadmap	Tissue	Spleen	spleen_30y	spleen	GSE16256	ENCSR086XCT	ENCSR563OLJ
+Sample_00_041	Roadmap	Tissue	Stomach	stomach_3y	stomach	GSE16256	ENCSR437QMD	ENCSR628GIZ
+Sample_00_042	Roadmap	Tissue	Stomach	stomach_30y	stomach	GSE16256	ENCSR582UTE	ENCSR975PED
+Sample_00_043	Roadmap	Tissue	Stomach	stomach_96d	stomach	GSE18927	ENCSR743DDX	ENCSR927MXE
+Sample_00_044	Roadmap	Primary cell	Cord blood	T-cell	T-cell	GSE18927	ENCSR222QLW	ENCSR930RIA
+Sample_00_045	Roadmap	Tissue	Thymus	thymus	thymus	GSE18927	ENCSR776KLS	ENCSR064RLF
+Sample_01_001	ENCODE	Cell line	Prostate	22Rv1	22Rv1	GSE105627|GSE105888	ENCSR391NPE	ENCSR933UGQ
+Sample_01_002	ENCODE	Cell line	Prostate	22Rv1_10nM17beta-hydroxy-5alpha-androstan-3-one 	22Rv1	GSE106029|GSE105888	ENCSR777CQW	ENCSR933UGQ
+Sample_01_006	ENCODE	Cell line	Lung	A549_ethanol_1h	A549	GSM1003578|GSM1003541	ENCSR000AUI	ENCSR000ASS
+Sample_01_012	ENCODE	Cell line	Lung	A549_dexamethasone_1h	A549	GSM1003493|GSM1003540	ENCSR000AVF	ENCSR000ASR
+Sample_01_017	ENCODE	Cell line	Muscle	A673	A673	GSE96332|GSE95974	ENCSR714TJD	ENCSR196CXJ
+Sample_01_018	ENCODE	Cell line	Submandibular Salivary Gland	ACC112	ACC112	GSE95903|GSE96407	ENCSR059MVB	ENCSR836XKP
+Sample_01_019	ENCODE	Primary cell	Brain and spinal cord	astrocyte	astrocyte	GSE29611|GSE29611	ENCSR000AOQ	ENCSR000AOP
+Sample_01_020	ENCODE	Primary cell	Blood	B-cell	B-cell	GSE29611|GSE95871	ENCSR000AUP	ENCSR000AUW
+Sample_01_021	ENCODE	In vitro differentiated cells	Skin 	bipolar-neuron	bipolar-neuron	GSE96463|GSE95879	ENCSR905TYC	ENCSR001KCX
+Sample_01_022	ENCODE	Cell line	Prostate	C4-2B	C4-2B	GSE105424|GSE105753	ENCSR279KIX	ENCSR585FQO
+Sample_01_023	ENCODE	In vitro differentiated cells	Embryo	cardiac-muscle-cell	cardiac-muscle-cell	GSE95878|GSE96431	ENCSR000NPF	ENCSR867SJE
+Sample_01_024	ENCODE	Primary cell	Blood	CD14-positive-monocyte	CD14-positive-monocyte	GSE29611|GSE29611	ENCSR000ASJ	ENCSR000AUU
+Sample_01_025	ENCODE	Cell line	Haematopoietic and lymphoid tissue blood	DND-41	DND-41	GSE29611|GSE95870	ENCSR000AQW	ENCSR000ASA
+Sample_01_026	ENCODE	Primary cell	Umbilical vein	endothelial-cell-of-umbilical-vein	endothelial cell of umbilical vein	GSE29611	ENCSR000ALB	ENCSR000ALG
+Sample_01_027	ENCODE	Primary cell	Prostate	epithelial-cell-of-prostate	epithelial-cell-of-prostate	GSE105828|GSE105307	ENCSR910PDW	ENCSR131SEB
+Sample_01_029	ENCODE	Primary cell	Lung	fibroblast-of-lung	fibroblast-of-lung	GSE35583|GSE35583	ENCSR000DPL	ENCSR000DPN
+Sample_01_030	ENCODE	Cell line	Haematopoietic and lymphoid tissue blood	GM12878	GM12878	GSE29611|GSE29611	ENCSR000AKC	ENCSR000AKJ
+Sample_01_031	ENCODE	Induced pluripotent stem cell line	Skin 	GM23338	GM23338	GSE96342|GSE96370	ENCSR729ENO	ENCSR773IYZ
+Sample_01_033	ENCODE	Stem cell	Embryo	H9	H9	NA|GSE96273	ENCSR566DVZ	ENCSR625CEM
+Sample_01_034	ENCODE	Cell line	Colon	HCT116	HCT116	GSE96299|GSE86688	ENCSR661KMA	ENCSR198WIH
+Sample_01_036	ENCODE	Cell line	Cervix	HeLa-S3	HeLa-S3	GSE29611|GSE95869	ENCSR000AOC	ENCSR000AOB
+Sample_01_037	ENCODE	In vitro differentiated cells	Liver	hepatocyte	hepatocyte	GSE96201|GSE95924	ENCSR507UDH	ENCSR107PGG
+Sample_01_038	ENCODE	Cell line	Liver	HepG2	HepG2	GSE29611|GSE95897	ENCSR000AMO	ENCSR055XHN
+Sample_01_039	ENCODE	Cell line	Haematopoietic and lymphoid tissue bone marrow	K562	K562	GSE29611|GSE95865	ENCSR000AKP	ENCSR000AKY
+Sample_01_040	ENCODE	Cell line	Haematopoietic and lymphoid tissue	Karpas-422	Karpas-422	GSE86733|GSE86703	ENCSR660IQS	ENCSR367UDO
+Sample_01_041	ENCODE	Primary cell	Skin	keratinocyte	keratinocyte	GSE29611|GSE95867	ENCSR000ALK	ENCSR000ALS
+Sample_01_042	ENCODE	Cell line	Haematopoietic and lymphoid tissue	KMS-11	KMS-11	GSE96488|GSE96339	ENCSR955IXZ	ENCSR720GSE
+Sample_01_043	ENCODE	Cell line	Blood	KOPT-K1	KOPT-K1	GSE96338|GSE96004	ENCSR719FEJ	ENCSR255BOF
+Sample_01_044	ENCODE	Cell line	Haematopoietic and lymphoid tissue	Loucy	Loucy	GSE96242|GSE96286 	ENCSR566GSO	ENCSR648HLP
+Sample_01_045	ENCODE	Primary cell	Mammary Gland	mammary-epithelial-cell	mammary epithelial cell	GSE29611|GSE29611	ENCSR000ALW	ENCSR000AMN
+Sample_01_046	ENCODE	Cell line	Mammary Gland	MCF-7	MCF-7	GSE96352|GSE86749	ENCSR752UOD	ENCSR768LHG
+Sample_01_047	ENCODE	In vitro differentiated cells	Embryo	mid-neurogenesis-radial-glial-cells	mid-neurogenesis-radial-glial-cells	NA|GSE96026	ENCSR092TTO	ENCSR287XMW
+Sample_01_048	ENCODE	Cell line	Peripheral blood	MM.1S	MM.1S	GSE96358|GSE96008	ENCSR758OEC	ENCSR264HOB
+Sample_01_050	ENCODE	In vitro differentiated cells	Embryo	neural-cell	neural-cell	GSE95935|GSE96111	ENCSR124VOE	ENCSR308JFE
+Sample_01_051	ENCODE	In vitro differentiated cells	Embryo	neural-progenitor-cell	neural-progenitor-cell	GSE96178|GSE96261	ENCSR449AXO	ENCSR603SVD
+Sample_01_052	ENCODE	Primary cell	Blood	neutrophil	neutrophil	GSE96014|GSE96233	ENCSR267YXV	ENCSR557RDB
+Sample_01_053	ENCODE	Cell line	Haematopoietic and lymphoid tissue	OCI-LY1	OCI-LY1	GSE86726|GSE86720	ENCSR597UDW	ENCSR569IIN
+Sample_01_054	ENCODE	Cell line	Haematopoietic and lymphoid tissue	OCI-LY3	OCI-LY3	GSE86758|GSE86702	ENCSR857GMX	ENCSR361GKY
+Sample_01_055	ENCODE	Cell line	Haematopoietic and lymphoid tissue	OCI-LY7	OCI-LY7	GSE86708|GSE86680	ENCSR447ZGY	ENCSR063AUO
+Sample_01_056	ENCODE	Primary cell	Bone	osteoblast	osteoblast	GSE29611|GSE29611	ENCSR000APH	ENCSR000APU
+Sample_01_057	ENCODE	Cell line	Pancreas/duct	PANC-1	PANC-1	GSE31755|GSE86663	ENCSR000EXK	ENCSR000EXM
+Sample_01_058	ENCODE	Cell line	Prostate	PC-3	PC-3	GSE96399|GSE96117	ENCSR826UTD	ENCSR328AHC
+Sample_01_059	ENCODE	Cell line	Lung	PC-9	PC-9	GSE96366|GSE95883	ENCSR769FOC	ENCSR011GWK
+Sample_01_060	ENCODE	In vitro differentiated cells	Embryo	radial-glial-cell	radial-glial-cell	NA|GSE96313	ENCSR829UDX	ENCSR689ICI
+Sample_01_061	ENCODE	Cell line	Prostate	RWPE1	RWPE1	GSE105290|GSE105387	ENCSR203KEU	ENCSR248IFK
+Sample_01_062	ENCODE	Cell line	Prostate 	RWPE2	RWPE2	-	ENCSR987PNT	ENCSR394DWD
+Sample_01_063	ENCODE	Primary cell	Skeletal muscle	skeletal-muscle-myoblast	skeletal muscle myoblast	GSE29611|GSE29611	ENCSR000ANF	ENCSR000ANN
+Sample_01_064	ENCODE	Cell line	Brain: derived from metastatic site: supra-orbital area	SK-N-MC	SK-N-MC	GSE96405|GSE96457	ENCSR835MMN	ENCSR899XXQ
+Sample_01_066	ENCODE	In vitro differentiated cells	Smooth muscle	smooth-muscle-cell	smooth-muscle-cell	GSE95986|GSE96343	ENCSR210ZPC	ENCSR729MRJ
+Sample_01_067	ENCODE	Cell line	Peritoneal effusion: derived from metastatic site: peritoneal cavity	SUDHL6	SUDHL6	GSE96110|GSE86683	ENCSR307DQT	ENCSR179YLS
+Sample_01_068	ENCODE	Cell line	Prostate: derived from metastatic site: vertebral metastasis	VCaP	VCaP	GSE105760|GSE105846	ENCSR597ULV	ENCSR716BTZ
+Sample_01_069	ENCODE	Tissue	Adrenal gland	adrenal-gland	adrenal-gland	GSE101068|GSE100979	ENCSR189QAD	ENCSR043UWF
+Sample_01_070	ENCODE	Tissue	Ascending aorta	ascending-aorta	ascending-aorta	GSE100995|GSE100950	ENCSR069UMW	ENCSR007WYC
+Sample_01_071	ENCODE	Tissue	Body of pancreas	body-of-pancreas	body-of-pancreas	GSE101269|GSE101315	ENCSR748TFF	ENCSR833HBT
+Sample_01_072	ENCODE	Tissue	Breast epithelium	breast-epithelium	breast-epithelium	GSE100978|GSE96000	ENCSR034ZKE	ENCSR247XFQ
+Sample_01_073	ENCODE	Tissue	Coronary artery	coronary-artery	coronary-artery	GSE101160|GSE95933	ENCSR443UYU	ENCSR122GIL
+Sample_01_074	ENCODE	Tissue	Esophagus muscularis mucosa	esophagus-muscularis-mucosa	esophagus-muscularis-mucosa	GSE101022|GSE96187	ENCSR095YMD	ENCSR474WLZ
+Sample_01_075	ENCODE	Tissue	Esophagus squamous epithelium	esophagus-squamous-epithelium	esophagus-squamous-epithelium	GSE101367|GSE96289	ENCSR909UAG	ENCSR652EPR
+Sample_01_076	ENCODE	Tissue	Gastrocnemius medialis	gastrocnemius-medialis	gastrocnemius-medialis	GSE96386|GSE96371	ENCSR801IPH	ENCSR775IMI
+Sample_01_077	ENCODE	Tissue	Gastroesophageal sphincter	gastroesophageal-sphincter	gastroesophageal-sphincter	GSE101253|GSE95967	ENCSR677LBH	ENCSR178MWD
+Sample_01_078	ENCODE	Tissue	Heart left ventricle	heart-left-ventricle	heart-left-ventricle	GSE101345|GSE96220	ENCSR854OXF	ENCSR526EXI
+Sample_01_079	ENCODE	Tissue	Peyers patch	Peyers-patch	Peyers-patch	GSE101324|GSE95934	ENCSR837SGJ	ENCSR124GAS
+Sample_01_080	ENCODE	Tissue	Prostate	prostate	prostate	-	ENCSR763IDK	ENCSR113QDZ
+Sample_01_081	ENCODE	Tissue	Right atrium auricular region	right-atrium-auricular-region	right-atrium-auricular-region	GSE101230|GSE101070	ENCSR593KDJ	ENCSR195BZZ
+Sample_01_082	ENCODE	Tissue	Right lobe of liver	right-lobe-of-liver	right-lobe-of-liver	GSE96504|GSE96021	ENCSR981UJA	ENCSR276SJT
+Sample_01_083	ENCODE	Tissue	Sigmoid colon	sigmoid-colon	sigmoid-colon	GSE101136|GSE101326	ENCSR268ZCF	ENCSR844YME
+Sample_01_084	ENCODE	Tissue	Spleen	spleen	spleen	GSE101261|GSE101069	ENCSR726HTS	ENCSR189UPU
+Sample_01_085	ENCODE	Tissue	Stomach	stomach	stomach	GSE101034|GSE101196	ENCSR133NBJ	ENCSR539HNK
+Sample_01_086	ENCODE	Tissue	Thoracic aorta	thoracic-aorta	thoracic-aorta	GSE100994|GSE96012	ENCSR318HUC	ENCSR266XMB
+Sample_01_087	ENCODE	Tissue	Thyroid gland	thyroid-gland	thyroid-gland	GSE101258|GSE101172	ENCSR716FUH	ENCSR475NOQ
+Sample_01_088	ENCODE	Tissue	Tibial nerve	tibial-nerve	tibial-nerve	GSE101273|GSE101039	ENCSR771YJT	ENCSR154SJE
+Sample_01_089	ENCODE	Tissue	Transverse colon	transverse-colon	transverse-colon	GSE101031|GSE101314	ENCSR208QRN	ENCSR828XQV
+Sample_01_090	ENCODE	Tissue	Upper lobe of left lung	upper-lobe-of-left-lung	upper-lobe-of-left-lung	GSE101265|GSE101151	ENCSR738SXD	ENCSR422TGJ
+Sample_01_091	ENCODE	Tissue	Uterus	uterus	uterus	GSE101065|GSE101378	ENCSR249INE	ENCSR979XBX
+Sample_01_092	ENCODE	Tissue	Vagina	vagina	vagina	GSE96337|GSE96270	ENCSR718BTD	ENCSR620XWM
+Sample_02_002	NCBI GEO/SRA	Cell line	Mammary Gland	MCF-7_10Gygamma_2.5h	MCF-7	GSE100099	GSM2671298	GSM2671302
+Sample_02_003	NCBI GEO/SRA	Cell line	Mammary Gland	MCF-7_10Gygamma_5h	MCF-7	GSE100099	GSM2671299	GSM2671303
+Sample_02_004	NCBI GEO/SRA	Cell line	Mammary Gland	MCF-7_10Gygamma_7.5h	MCF-7	GSE100099	GSM2671300	GSM2671304
+Sample_02_005	NCBI GEO/SRA	Other	Cervical	cervical-cancer_KDM5C	cervical cancer cells	GSE101565	GSM2706139	GSM2706140
+Sample_02_006	NCBI GEO/SRA	Other	Cervical	cervical-cancer_parental	cervical cancer cells	GSE101565	GSM2706141	GSM2706142
+Sample_02_007	NCBI GEO/SRA	Other	Cervical	cervical-cancer_vector	cervical cancer cells	GSE101565	GSM2706145	GSM2706146
+Sample_02_008	NCBI GEO/SRA	Cell line	Kidney	786-O_empty_vector	786-O	GSE102095	GSM2723818	GSM2723821
+Sample_02_009	NCBI GEO/SRA	Cell line	Kidney	786-O_wtVHL	786-O	GSE102095	GSM2723822	GSM2723825
+Sample_02_010	NCBI GEO/SRA	Cell line	Kidney	A-498_emptyvector	A-498	GSE102095	GSM2723834	GSM2723835
+Sample_02_011	NCBI GEO/SRA	Cell line	Kidney	A-498_wtVHL	A-498	GSE102095	GSM2723836	GSM2723837
+Sample_02_012	NCBI GEO/SRA	Cell line	Kidney	786-O_non-targeting	786-O	GSE102095	GSM2723866	GSM2723867
+Sample_02_013	NCBI GEO/SRA	Cell line	Kidney	786-O_HIF2A	786-O	GSE102095	GSM2723868	GSM2723869
+Sample_02_014	NCBI GEO/SRA	Cell line	Liver	HepG2_shBRG1	HepG2	GSE102559	GSM2740934	GSM2740938
+Sample_02_015	NCBI GEO/SRA	Cell line	Liver	HepG2_shNS	HepG2	GSE102559	GSM2740936	GSM2740940
+Sample_02_016	NCBI GEO/SRA	Primary cell	Blood	erythroblasts	erythroblasts	GSE102584	GSM2741449	GSM2741452
+Sample_02_017	NCBI GEO/SRA	Stem cell	Embryo	H9_ESC	H9_ESC	GSE24447	GSM602294	GSM602292
+Sample_02_018	NCBI GEO/SRA	Cell line	Embryo	NEC	NEC	GSE24447	GSM602302	GSM602300
+Sample_02_019	NCBI GEO/SRA	Other	Embryo	Neural crest cells 	hNCC	GSE28874	GSM714807	GSM714805
+Sample_02_021	NCBI GEO/SRA	Cell line	Colon	V429	V429	GSE36204	GSM883681	GSM883667
+Sample_02_022	NCBI GEO/SRA	Primary cell	Blood	CD8donorA	CD8 donor A	GSE40668	GSM999000	GSM999012
+Sample_02_023	NCBI GEO/SRA	Primary cell	Blood	CD8donorC	CD8 donor C	GSE40668	GSM999001	GSM999013
+Sample_02_024	NCBI GEO/SRA	Primary cell	Blood	CD56+ Natural Killer cells donor A	CD56+ Natural Killer cells donor A	GSE40668	GSM999008	GSM999011
+Sample_02_025	NCBI GEO/SRA	Primary cell	Blood	CD19donorA	CD19 donor A	GSE40668	GSM998996	GSM999010
+Sample_02_026	NCBI GEO/SRA	Primary cell	Blood	CD4donorE	CD4 donor E	GSE40668	GSM999004	GSM999014
+Sample_02_027	NCBI GEO/SRA	Cell line	Umbilical vein	HUVEC_VEGF_4h	HUVEC	GSE41166	GSM1009625	GSM1009651
+Sample_02_029	NCBI GEO/SRA	Cell line	Colorectal	LS174T	LS174T	GSE49320	GSM1365900	GSM1197323
+Sample_02_030	NCBI GEO/SRA	Other	Kidney	human kidney proximal tubule cells	human kidney proximal tubule cells	GSE49637	GSM1203230	GSM1203232
+Sample_02_031	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue blood	Jurkat	Jurkat	GSE50622	GSM1296384	GSM1296386
+Sample_02_032	NCBI GEO/SRA	Tissue	Pancreas	pancreatic-islets-M	pancreatic islets M	GSE51311	GSM1261672	GSM1261673
+Sample_02_033	NCBI GEO/SRA	Tissue	Pancreas	pancreatic-islets-F	pancreatic islets F	GSE51311	GSM1261674	GSM1261676
+Sample_02_034	NCBI GEO/SRA	Cell line	Peripheral blood	CUTLL1_GSI	CUTLL1	GSE51800	GSM1252939	GSM1252932
+Sample_02_035	NCBI GEO/SRA	Cell line	Peripheral blood	CUTLL1_GSI_wash	CUTLL1	GSE51800	GSM1252940	GSM1252935
+Sample_02_036	NCBI GEO/SRA	Stem cell	Embryo	H7	H7	GSE52657	GSM1273645	GSM1273642
+Sample_02_038	NCBI GEO/SRA	Stem cell	Embryo	DE	DE	GSE52657	GSM1273655	GSM1273652
+Sample_02_039	NCBI GEO/SRA	Stem cell	Embryo	AFG	AFG	GSE52657	GSM1273660	GSM1273657
+Sample_02_040	NCBI GEO/SRA	Stem cell	Embryo	PFG	PFG	GSE52657	GSM1273665	GSM1273662
+Sample_02_041	NCBI GEO/SRA	Cell line	Burkitt's lymphoma of the left maxilla	Raji_B	Raji	GSE52914	GSM1356063	GSM1278003
+Sample_02_042	NCBI GEO/SRA	Cell line	Embryo endodermal 	CyT49_ES_D0	CyT49	GSE54471	GSM1316300	GSM1316304
+Sample_02_043	NCBI GEO/SRA	Cell line	Embryo endodermal 	CyT49_ES_D2	CyT49	GSE54471	GSM1316307	GSM1316311
+Sample_02_044	NCBI GEO/SRA	Cell line	Embryo endodermal 	CyT49_ES_D5	CyT49	GSE54471	GSM1316314	GSM1316318
+Sample_02_045	NCBI GEO/SRA	Cell line	Embryo endodermal 	CyT49_ES_D7	CyT49	GSE54471	GSM1316321	GSM1316325
+Sample_02_046	NCBI GEO/SRA	Cell line	Embryo endodermal 	CyT49_ES_D10	CyT49	GSE54471	GSM1316328	GSM1316332
+Sample_02_047	NCBI GEO/SRA	Cell line	Pancreatic endoderm	IIDP/donor790	IIDP/donor790	GSE54471	GSM1316339	GSM1316340
+Sample_02_048	NCBI GEO/SRA	Cell line	Embryo endodermal 	CyT49_HE	CyT49	GSE54471	GSM1316341	GSM1316342
+Sample_02_049	NCBI GEO/SRA	Cell line	Embryo endodermal 	CyT49_GTtoH	CyT49	GSE54471	GSM1551472	GSM1551473
+Sample_02_050	NCBI GEO/SRA	Cell line	Skin	BJ	BJ	GSE55171	GSM1330734	GSM1330735
+Sample_02_051	NCBI GEO/SRA	Cell line	Mammary Gland	MCF-7_EtOH	MCF-7	GSE57436	GSM1382472	GSM1382474
+Sample_02_052	NCBI GEO/SRA	Cell line	Mammary Gland	MCF-7_E2	MCF-7	GSE57436	GSM1382482	GSM1382484
+Sample_02_053	NCBI GEO/SRA	Cell line	Colon	DKO1	DKO1	GSE58638	GSM1415884	GSM1415888
+Sample_02_054	NCBI GEO/SRA	Cell line	Lung	IMR-90_DMSO_1	IMR-90	GSE58740	GSM1418963	GSM1418971
+Sample_02_055	NCBI GEO/SRA	Cell line	Lung	IMR-90_Nutlin-3a	IMR-90	GSE58740	GSM1418964	GSM1418972
+Sample_02_056	NCBI GEO/SRA	Cell line	Mammary Gland	HMEC	HMEC	GSE58881	GSM1421317	GSM1421318
+Sample_02_057	NCBI GEO/SRA	Cell line	Mammary Gland	vHMEC	vHMEC	GSE58881	GSM1421320	GSM1421323
+Sample_02_058	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue blood	WT/Jurkat-11bp	Jurkat	GSE59657	GSM1519634	GSM1519636
+Sample_02_059	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue blood	WT/Jurkat	Jurkat	GSE59657	GSM1519638	GSM1519637
+Sample_02_060	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue blood	WT-11bp/Jurkat	Jurkat	GSE59657	GSM1519642	GSM1519640
+Sample_02_061	NCBI GEO/SRA	Cell line	Adipose	hMADS-3_white	hMADS-3	GSE59703	GSM1443805	GSM1443817
+Sample_02_062	NCBI GEO/SRA	Cell line	Adipose	hMADS-3_brite	hMADS-3	GSE59703	GSM1443806	GSM1443818
+Sample_02_063	NCBI GEO/SRA	Primary cell	Skin	Keratinocytes	Keratinocytes	GSE59824	GSM1446919	GSM1446918
+Sample_02_064	NCBI GEO/SRA	Cell line	Embryo	DN-Early_G1	DN-Early G1	GSE61176	GSM1498904	GSM1498912
+Sample_02_065	NCBI GEO/SRA	Cell line	Embryo	KO2-Late_G1	KO2-Late G1	GSE61176	GSM1498905	GSM1498913
+Sample_02_066	NCBI GEO/SRA	Cell line	Embryo	AzL-S_phase	AzL-S phase	GSE61176	GSM1498906	GSM1498914
+Sample_02_067	NCBI GEO/SRA	Cell line	Embryo	AzH-G2/M	AzH-G2/M	GSE61176	GSM1498907	GSM1498915
+Sample_02_068	NCBI GEO/SRA	Cell line	Skin	A375_DMSO	A375	GSE61825	GSM1515414	GSM1515413
+Sample_02_069	NCBI GEO/SRA	Cell line	Brain	SF268	SF268	GSE61852	GSM1515744	GSM1515740
+Sample_02_070	NCBI GEO/SRA	Cell line	Lung	NCI-H69_DMSO	NCI-H69	GSE62412	GSM1526703	GSM1526705
+Sample_02_071	NCBI GEO/SRA	Cell line	Lung	GLC16_DMSO	GLC16	GSE62412	GSM1526704	GSM1526701
+Sample_02_072	NCBI GEO/SRA	Cell line	Lung	NCI-H82_DMSO	NCI-H82	GSE62412	GSM1526706	GSM1526702
+Sample_02_073	NCBI GEO/SRA	Cell line	Other	90-8TL_DMSO	90-8TL	GSE62499	GSM1527927	GSM1527928
+Sample_02_074	NCBI GEO/SRA	Cell line	Other	90-8TL_PDJQ	90-8TL	GSE62499	GSM1527930	GSM1527931
+Sample_02_075	NCBI GEO/SRA	Cell line	Autonomic ganglia	kelly_DMSO_3h	kelly	GSE62725	GSM1532401	GSM1532403
+Sample_02_076	NCBI GEO/SRA	Cell line	Autonomic ganglia	SH-SY5Y_DMSO_3h	SH-SY5Y	GSE62725	GSM1532408	GSM1532410
+Sample_02_077	NCBI GEO/SRA	Primary cell	Neuroblastoma	high-MYCN-Neuroblastoma-patient-cells	high-MYCN-Neuroblastoma patient cells	GSE62725	GSM1532415	GSM1532416
+Sample_02_078	NCBI GEO/SRA	Primary cell	Neuroblastoma	low-MYCN-Neuroblastoma-patient-cells	low-MYCN-Neuroblastoma patient cells	GSE62725	GSM1532417	GSM1532418
+Sample_02_079	NCBI GEO/SRA	Cell line	Mammary Gland	T-47D_1	T-47D	GSE63109	GSM1541449	GSM1541454
+Sample_02_080	NCBI GEO/SRA	Cell line	Lung	Calu-3	Calu-3	GSE63398	GSM1548075	GSM1548073
+Sample_02_081	NCBI GEO/SRA	In vitro differentiated cells	Blood	Monocyte-derived_dendritic_cells	Monocyte-derived dendritic cells	GSE64175	GSM1565787	GSM1565793
+Sample_02_082	NCBI GEO/SRA	Cell line	Oral cavity	KB_IL-1alpha	KB	GSE64223	GSM1566557	GSM1566561
+Sample_02_083	NCBI GEO/SRA	Cell line	Oral cavity	KB_untreat	KB	GSE64223	GSM1566558	GSM1566562
+Sample_02_084	NCBI GEO/SRA	Cell line	Oral cavity	KB_5Z-7-oxozeaenol	KB	GSE64223	GSM1566559	GSM1566563
+Sample_02_085	NCBI GEO/SRA	Cell line	Oral cavity	KB_IL-1alpha_5Z-7-oxozeaenol	KB	GSE64223	GSM1566560	GSM1566564
+Sample_02_086	NCBI GEO/SRA	Cell line	Pancreas	CAPAN1	CAPAN1	GSE64557	GSM1574235	GSM1574271
+Sample_02_087	NCBI GEO/SRA	Cell line	Pancreas	MiaPaca2	MiaPaca2	GSE64557	GSM1574239	GSM1574272
+Sample_02_088	NCBI GEO/SRA	Stem cell	Umbilical cord	umbilical-cord-derived-mesenchymal-stem-cells_SGA_cycle_0	umbilical cord derived mesenchymal stem cells （UC-MSC）	GSE64697	GSM1576985	GSM1576983
+Sample_02_089	NCBI GEO/SRA	Stem cell	Umbilical cord	umbilical-cord-derived-mesenchymal-stem-cells_SGA_cycle_3	umbilical cord derived mesenchymal stem cells （UC-MSC）	GSE64697	GSM1576986	GSM1576983
+Sample_02_090	NCBI GEO/SRA	Stem cell	Umbilical cord	umbilical-cord-derived-mesenchymal-stem-cells_SGA_cycle_6	umbilical cord derived mesenchymal stem cells （UC-MSC）	GSE64697	GSM1576987	GSM1576983
+Sample_02_091	NCBI GEO/SRA	Stem cell	Umbilical cord	umbilical-cord-derived-mesenchymal-stem-cells_Control_cycle_0	umbilical cord derived mesenchymal stem cells （UC-MSC）	GSE64697	GSM1576988	GSM1576984
+Sample_02_092	NCBI GEO/SRA	Stem cell	Umbilical cord	umbilical-cord-derived-mesenchymal-stem-cells_Control_cycle_3	umbilical cord derived mesenchymal stem cells （UC-MSC）	GSE64697	GSM1576989	GSM1576984
+Sample_02_093	NCBI GEO/SRA	Stem cell	Umbilical cord	umbilical-cord-derived-mesenchymal-stem-cells_Control_cycle_6	umbilical cord derived mesenchymal stem cells （UC-MSC）	GSE64697	GSM1576990	GSM1576984
+Sample_02_095	NCBI GEO/SRA	Cell line	Mammary Gland	MDA-MB-468	MDA-MB-468	GSE65201	GSM1589470	GSM1589471
+Sample_02_096	NCBI GEO/SRA	Cell line	Mammary Gland	ZR-75-1_1	ZR-75-1	GSE65201	GSM1589472	GSM1589477
+Sample_02_097	NCBI GEO/SRA	Stem cell	Foreskin	Epidermal-Stem-Cells_shCTRL	Epidermal Stem Cells	GSE65838	GSM1607404	GSM1607413
+Sample_02_099	NCBI GEO/SRA	Stem cell	Foreskin	Epidermal-Stem-Cells_shDNMT3B	Epidermal Stem Cells	GSE65838	GSM1607406	GSM1607415
+Sample_02_100	NCBI GEO/SRA	Primary cell	Peripheral blood 	Macrophages_GM-CSF_72h	peripheral blood derived macrophage	GSE66594	GSM1625977	GSM1625985
+Sample_02_101	NCBI GEO/SRA	Primary cell	Peripheral blood 	Macrophages_GM-CSF_72h_IFN-y	peripheral blood derived macrophage	GSE66594	GSM1625978	GSM1625986
+Sample_02_102	NCBI GEO/SRA	Primary cell	Peripheral blood 	Macrophages_GM-CSF_72h_IL4	peripheral blood derived macrophage	GSE66594	GSM1625979	GSM1625987
+Sample_02_103	NCBI GEO/SRA	Primary cell	Peripheral blood 	Macrophages_GM-CSF_72h_TNF-a_PGE2_Pam3CSK4	peripheral blood derived macrophage	GSE66594	GSM1625980	GSM1625988
+Sample_02_104	NCBI GEO/SRA	Primary cell	Blood	neutrophils	neutrophils	GSE66896	GSM1633870	GSM1633871
+Sample_02_105	NCBI GEO/SRA	Primary cell	Skin	neonatal_keratinocytes	neonatal keratinocytes	GSE67382	GSM1645725	GSM1645710
+Sample_02_106	NCBI GEO/SRA	Other	Skin	NHEK_M	NHEK	GSE68075	GSM1662338	GSM1662336
+Sample_02_107	NCBI GEO/SRA	Cell line	Endometrium	EEC16	EEC16	GSE68104	GSM1663010	GSM1663014
+Sample_02_108	NCBI GEO/SRA	Cell line	Fallopian tube	FT246	FT246	GSE68104	GSM1663018	GSM1663022
+Sample_02_110	NCBI GEO/SRA	Cell line	Ovaries	IOE11	IOE11	GSE68104	GSM1663035	GSM1663039
+Sample_02_111	NCBI GEO/SRA	Cell line	Ovaries	IOE4	IOE4	GSE68104	GSM1663045	GSM1663049
+Sample_02_112	NCBI GEO/SRA	Cell line	Connective tissue	HT1080_untreated	HT1080	GSE68109	GSM1663107	GSM1663105
+Sample_02_113	NCBI GEO/SRA	Cell line	Connective tissue	HT1080_DOX5d	HT1080	GSE68109	GSM1663108	GSM1663106
+Sample_02_114	NCBI GEO/SRA	Cell line	Mammary Gland	CAL51	CAL51	GSE69112	GSM1693015	GSM1693027
+Sample_02_115	NCBI GEO/SRA	Cell line	Mammary Gland	MCF-7	MCF-7	GSE69112	GSM1693017	GSM1693029
+Sample_02_116	NCBI GEO/SRA	Cell line	Mammary Gland	MDA-MB-231_untreat	MDA-MB-231	GSE69112	GSM1693018	GSM1693030
+Sample_02_117	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	KARPAS-422	KARPAS-422	GSE69558	GSM1703909	GSM1703910
+Sample_02_118	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	MINO 	MINO 	GSE69558	GSM1703912	GSM1703913
+Sample_02_119	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	PFEIFFER	PFEIFFER	GSE69558	GSM1703923	GSM1703924
+Sample_02_120	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	REC-1	REC-1	GSE69558	GSM1703925	GSM1703926
+Sample_02_121	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	SUDHL-4	SUDHL-4	GSE69558	GSM1703927	GSM1703928
+Sample_02_122	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	TOLEDO	TOLEDO	GSE69558	GSM1703931	GSM1703932
+Sample_02_123	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	GRANTA-519 	GRANTA-519 	GSE69558	GSM1703901	GSM1703902
+Sample_02_124	NCBI GEO/SRA	Stem cell	Embryo	Embryonic-stem-cells_Naive	Embryonic stem cells	GSE69646	GSM1705251	GSM1705255
+Sample_02_125	NCBI GEO/SRA	Stem cell	Embryo	Embryonic-stem-cells_Primed	Embryonic stem cells	GSE69646	GSM1705260	GSM1705264
+Sample_02_126	NCBI GEO/SRA	Primary cell	Blood	Induced-regulatory-T-cells_DMSO	Induced regulatory T cells	GSE70708	GSM1816682	GSM1816686
+Sample_02_127	NCBI GEO/SRA	Primary cell	Blood	Induced-regulatory-T-cells_CPI-703	Induced regulatory T cells	GSE70708	GSM1816683	GSM1816687
+Sample_02_128	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	ALL-SIL	ALL-SIL	GSE70734	GSM1816978	GSM1816979
+Sample_02_131	NCBI GEO/SRA	Cell line	Lung	1015_PT	1015	GSE70870	GSM1820954	GSM1820945
+Sample_02_132	NCBI GEO/SRA	Cell line	Lung	1015_CL	1015	GSE70870	GSM1820955	GSM1820946
+Sample_02_133	NCBI GEO/SRA	Cell line	Thymus	TC-797_JQ1_4h	TC-797	GSE70870	GSM1820958	GSM1820956
+Sample_02_134	NCBI GEO/SRA	Cell line	Kidney	293Trex_B4Nflag_No	293Trex_B4Nflag	GSE70870	GSM1820962	GSM1820960
+Sample_02_135	NCBI GEO/SRA	Cell line	Kidney	293Trex_B4Nflag_2h	293Trex_B4Nflag	GSE70870	GSM1820966	GSM1820964
+Sample_02_136	NCBI GEO/SRA	Cell line	Kidney	293Trex_B4Nflag_7h	293Trex_B4Nflag	GSE70870	GSM1820970	GSM1820968
+Sample_02_138	NCBI GEO/SRA	Tissue	Brain	RT172	RT172	GSE71502	GSM1835835	GSM1835862
+Sample_02_139	NCBI GEO/SRA	Tissue	Liver	RT236	RT236	GSE71502	GSM1835841	GSM1835864
+Sample_02_140	NCBI GEO/SRA	Tissue	Kidney	RT242	RT242	GSE71502	GSM1835844	GSM1835865
+Sample_02_141	NCBI GEO/SRA	Cell line	Colon	HCT116_Heterozygous_ARID1A-KO	HCT116	GSE71510	GSM1835983	GSM1835994
+Sample_02_142	NCBI GEO/SRA	Cell line	Colon	HCT116_Homozygous_ARID1A-KO	HCT116	GSE71510	GSM1835984	GSM1835995
+Sample_02_143	NCBI GEO/SRA	Cell line	Colon	HCT116_Parental	HCT116	GSE71510	GSM1835982	GSM1835993
+Sample_02_144	NCBI GEO/SRA	Cell line	Peripheral blood	MV411_DMSO	MV411	GSE71776	GSM1845134	GSM1845146
+Sample_02_146	NCBI GEO/SRA	Cell line	Bone marrow	LP-1_SGC-CBP30	LP-1	GSE71909	GSM1847318	GSM1847315
+Sample_02_147	NCBI GEO/SRA	Primary cell	Blood	CD4_T_cells	CD4 T cells	GSE71952	GSM1847867	GSM1847921
+Sample_02_148	NCBI GEO/SRA	Primary cell	Blood	CD8_T_cells	CD8 T cells	GSE71952	GSM1847878	GSM1847920
+Sample_02_150	NCBI GEO/SRA	Cell line	Mammary Gland	MDA-MB-231_GATA3	MDA-MB-231	GSE72141	GSM1855993	GSM1855999
+Sample_02_151	NCBI GEO/SRA	Cell line	Mammary Gland	MDA-MB-231_TA1del	MDA-MB-231	GSE72141	GSM1855995	GSM1856001
+Sample_02_152	NCBI GEO/SRA	Cell line	Brain	U87_EGFRvIII_shFOXG1_FBS	U87	GSE72468	GSM1866074	GSM1866075
+Sample_02_154	NCBI GEO/SRA	Cell line	Brain	U87_EGFRvIII_shSCR_FBS	U87	GSE72468	GSM1866078	GSM1866079
+Sample_02_155	NCBI GEO/SRA	Cell line	Brain	U87_EGFRvIII_shSOX9_FBS	U87	GSE72468	GSM1866080	GSM1866081
+Sample_02_157	NCBI GEO/SRA	Cell line	Brain	U87_EGFRvIII_FBS	U87	GSE72468	GSM1866084	GSM1866087
+Sample_02_158	NCBI GEO/SRA	Cell line	Brain	U87_EGFRvIII_erlotinib	U87	GSE72468	GSM1866088	GSM1866089
+Sample_02_160	NCBI GEO/SRA	Cell line	Brain	U87_FBS	U87	GSE72468	GSM1866094	GSM1866097
+Sample_02_161	NCBI GEO/SRA	Cell line	Brain	U87	U87	GSE72468	GSM1866098	GSM1866101
+Sample_02_162	NCBI GEO/SRA	Cell line	Prostate	C4-2B_vehicle_24h	C4-2B	GSE72714	GSM1868872	GSM1868876
+Sample_02_163	NCBI GEO/SRA	Cell line	Prostate	C4-2B_SR2211_24h	C4-2B	GSE72714	GSM1868873	GSM1868877
+Sample_02_164	NCBI GEO/SRA	Cell line	Lung	H2087_Parental	H2087	GSE72956	GSM2066433	GSM2066429
+Sample_02_165	NCBI GEO/SRA	Cell line	Lung	H2087_LCC2	H2087	GSE72956	GSM2066434	GSM2066430
+Sample_02_166	NCBI GEO/SRA	Cell line	Mammary Gland	HCC1954_Parental	HCC1954	GSE72956	GSM2066435	GSM2066431
+Sample_02_167	NCBI GEO/SRA	Cell line	Mammary Gland	HCC1954_LCC2	HCC1954	GSE72956	GSM2066436	GSM2066432
+Sample_02_168	NCBI GEO/SRA	Cell line	Prostate	LNCaP	LNCaP	GSE73783	GSM1902615	GSM1902617
+Sample_02_169	NCBI GEO/SRA	Cell line	Prostate	LNCaP_R1881	LNCaP	GSE73994	GSM1907213	GSM1907217
+Sample_02_170	NCBI GEO/SRA	Cell line	Prostate	LNCaP_R1881_DOX	LNCaP	GSE73994	GSM1907214	GSM1907218
+Sample_02_171	NCBI GEO/SRA	Cell line	Lung	IMR-90_proliferating	IMR-90	GSE74238	GSM1915113	GSM1915119
+Sample_02_172	NCBI GEO/SRA	Cell line	Lung	IMR-90_quiescent	IMR-90	GSE74238	GSM1915114	GSM1915120
+Sample_02_173	NCBI GEO/SRA	Cell line	Lung	IMR-90_senescent	IMR-90	GSE74238	GSM1915115	GSM1915121
+Sample_02_174	NCBI GEO/SRA	Cell line	Lung	IMR-90_DMSO_2	IMR-90	GSE74238	GSM2098185	GSM2098187
+Sample_02_175	NCBI GEO/SRA	Cell line	Lung	IMR-90_Etoposide	IMR-90	GSE74238	GSM2098186	GSM2098188
+Sample_02_176	NCBI GEO/SRA	Cell line	Peripheral blood	LOUCY	LOUCY	GSE74311	GSM1916974	GSM1916975
+Sample_02_177	NCBI GEO/SRA	Cell line	Urinary bladder	J82	J82	GSE75286	GSM1948902	GSM1948901
+Sample_02_179	NCBI GEO/SRA	Cell line	Urinary bladder	T24	T24	GSE75286	GSM1948906	GSM1948905
+Sample_02_180	NCBI GEO/SRA	Cell line	Human melanoma 	CJM	CJM	GSE75352	GSM1953837	GSM1953843
+Sample_02_181	NCBI GEO/SRA	Cell line	Human melanoma 	COLO679	COLO679	GSE75352	GSM1953838	GSM1953844
+Sample_02_182	NCBI GEO/SRA	Cell line	Human melanoma 	LOX-IMVI	LOX IMVI	GSE75352	GSM1953839	GSM1953845
+Sample_02_183	NCBI GEO/SRA	Cell line	Skin	SKMEL2	SKMEL2	GSE75352	GSM1953840	GSM1953846
+Sample_02_184	NCBI GEO/SRA	Cell line	Skin	SKMEL30	SKMEL30	GSE75352	GSM1953841	GSM1953847
+Sample_02_185	NCBI GEO/SRA	Cell line	Skin	UACC257	UACC257	GSE75352	GSM1953842	GSM1953848
+Sample_02_186	NCBI GEO/SRA	Cell line	Stomach	AGS	AGS	GSE75595	GSM1960223	GSM1960224
+Sample_02_187	NCBI GEO/SRA	Cell line	Stomach	KATOIII	KATOIII	GSE75595	GSM1960225	GSM1960226
+Sample_02_188	NCBI GEO/SRA	Cell line	Stomach	MKN1	MKN1	GSE75595	GSM1960227	GSM1960228
+Sample_02_189	NCBI GEO/SRA	Cell line	Stomach	SNU016	SNU016	GSE75595	GSM1960231	GSM1960232
+Sample_02_190	NCBI GEO/SRA	Cell line	Stomach	SNU638	SNU638	GSE75595	GSM1960233	GSM1960234
+Sample_02_191	NCBI GEO/SRA	Cell line	Stomach	SNU719	SNU719	GSE75595	GSM1960235	GSM1960236
+Sample_02_192	NCBI GEO/SRA	Cell line	Stomach	MKN45	MKN45	GSE75595	GSM2076193	GSM2076194
+Sample_02_193	NCBI GEO/SRA	Tissue	Kidney	Patient_x750N 	Patient_x750N 	GSE75597	GSM1960253	GSM1960257
+Sample_02_194	NCBI GEO/SRA	Tissue	Kidney	Patient_x750T	Patient_x750T	GSE75597	GSM1960254	GSM1960258
+Sample_02_195	NCBI GEO/SRA	Cell line	Stomach	OCUM1	OCUM1	GSE75898	GSM1969538	GSM1969536
+Sample_02_196	NCBI GEO/SRA	Cell line	Stomach	NCC59	NCC59	GSE75898	GSM1969541	GSM1969539
+Sample_02_197	NCBI GEO/SRA	Cell line	Stomach	SNU1750	SNU1750	GSE75898	GSM1969544	GSM1969542
+Sample_02_198	NCBI GEO/SRA	Cell line	Stomach	SNU16	SNU16	GSE75898	GSM1969547	GSM1969545
+Sample_02_199	NCBI GEO/SRA	Cell line	Stomach	KATO3	KATO3	GSE75898	GSM1969549	GSM1969548
+Sample_02_200	NCBI GEO/SRA	Cell line	Stomach	RERF-GC-1B	RERF-GC-1B	GSE75898	GSM1969558	GSM1969559
+Sample_02_201	NCBI GEO/SRA	Cell line	Stomach	MKN7	MKN7	GSE75898	GSM1969561	GSM1969562
+Sample_02_202	NCBI GEO/SRA	Cell line	Stomach	YCC7	YCC7	GSE75898	GSM1969565	GSM1969566
+Sample_02_203	NCBI GEO/SRA	Cell line	Stomach	YCC21	YCC21	GSE75898	GSM1969569	GSM1969570
+Sample_02_204	NCBI GEO/SRA	Cell line	Stomach	IM95	IM95	GSE75898	GSM1969572	GSM1969573
+Sample_02_205	NCBI GEO/SRA	Tissue	Stomach	Gastric_Primary_Sample_T	Gastric Primary Sample	GSE75898	GSM1969575	GSM1969576
+Sample_02_206	NCBI GEO/SRA	Tissue	Stomach	Gastric_Primary_Sample_N	Gastric Primary Sample	GSE75898	GSM1969578	GSM1969579
+Sample_02_207	NCBI GEO/SRA	Cell line	Stomach	FU97	FU97	GSE75898	GSM1969627	GSM1969628
+Sample_02_208	NCBI GEO/SRA	Cell line	Stomach	YCC3	YCC3	GSE75898	GSM1969631	GSM1969632
+Sample_02_209	NCBI GEO/SRA	Cell line	Lung	MRC-5_MRC5_1DPT	MRC-5	GSE75910	GSM1970132	GSM1970129
+Sample_02_210	NCBI GEO/SRA	Cell line	Lung	MRC-5_N_1DPT	MRC-5	GSE75910	GSM1970134	GSM1970130
+Sample_02_211	NCBI GEO/SRA	Cell line	Lung	MRC-5_NFD_1DPT	MRC-5	GSE75910	GSM1970136	GSM1970131
+Sample_02_212	NCBI GEO/SRA	Cell line	Burkitt's lymphoma of the left maxilla	Raji_DMSO	Raji	GSE76191	GSM1976293	GSM1976298
+Sample_02_213	NCBI GEO/SRA	Cell line	Burkitt's lymphoma of the left maxilla	Raji_JQ1	Raji	GSE76191	GSM1976303	GSM1976309
+Sample_02_214	NCBI GEO/SRA	Stem cell	Embryo	H9_WT	H9	GSE76626	GSM2029351	GSM2029353
+Sample_02_215	NCBI GEO/SRA	Other	Skin	NHEK_siGRHL3	NHEK	GSE76691	GSM2035809	GSM2035808
+Sample_02_216	NCBI GEO/SRA	Other	Skin	NHEK_scramble	NHEK	GSE76691	GSM2035816	GSM2035815
+Sample_02_217	NCBI GEO/SRA	Cell line	Mammary Gland	MCF-7_NS	MCF-7	GSE76732	GSM2036927	GSM2036933
+Sample_02_218	NCBI GEO/SRA	Cell line	Mammary Gland	MCF-7_PMA	MCF-7	GSE76732	GSM2036928	GSM2036934
+Sample_02_219	NCBI GEO/SRA	Cell line	Mammary Gland	MDA-MB-231	MDA-MB-231	GSE76732	GSM2036929	GSM2036935
+Sample_02_220	NCBI GEO/SRA	Cell line	Brain	BE2C_1	BE2C	GSE76783	GSM2037779	GSM2311765
+Sample_02_221	NCBI GEO/SRA	Cell line	Blood	CCRF-CEM	CCRF-CEM	GSE76783	GSM2037781	GSM2311757
+Sample_02_222	NCBI GEO/SRA	Cell line	Blood	DU-528	DU.528	GSE76783	GSM2037785	GSM2311758
+Sample_02_223	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	MOLT4_1	MOLT4	GSE76783	GSM2037790	GSM2311761
+Sample_02_224	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	P12-ICHIKAWA	P12-ICHIKAWA	GSE76783	GSM2037794	GSM2311762
+Sample_02_225	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	PF-382	PF-382	GSE76783	GSM2037796	GSM2311763
+Sample_02_226	NCBI GEO/SRA	Cell line	Blood	KOPTK1	KOPTK1	GSE76783	GSM2318734	GSM2311759
+Sample_02_227	NCBI GEO/SRA	Cell line	Oesophagus	TE7	TE7	GSE76859	GSM2039110	GSM2039111
+Sample_02_228	NCBI GEO/SRA	Cell line	Oesophagus	KYSE510	KYSE510	GSE76859	GSM2039112	GSM2039113
+Sample_02_229	NCBI GEO/SRA	Stem cell	Umbilical cord	ID01	ID01	GSE77260	GSM2046837	GSM2046867
+Sample_02_230	NCBI GEO/SRA	Stem cell	Umbilical cord	ID60	ID60	GSE77260	GSM2046842	GSM2046872
+Sample_02_231	NCBI GEO/SRA	Primary cell	Tonsil	ILC1	Innate lymphoid cells (ILCs)	GSE77299	GSM2048291	GSM2048294
+Sample_02_232	NCBI GEO/SRA	Primary cell	Tonsil	ILC3	Innate lymphoid cells (ILCs)	GSE77299	GSM2048298	GSM2048301
+Sample_02_233	NCBI GEO/SRA	Primary cell	Tonsil	Th1	"Th1,cytokine-secreting T helper cell (Th) counterparts."	GSE77299	GSM2048304	GSM2048306
+Sample_02_234	NCBI GEO/SRA	Primary cell	Tonsil	Th17	"Th17,cytokine-secreting T helper cell (Th) counterparts."	GSE77299	GSM2048309	GSM2048311
+Sample_02_235	NCBI GEO/SRA	Primary cell	Peripheral blood	NK	"NK,Natural Killer cells（Lymphocyte）"	GSE77299	GSM2048314	GSM2048316
+Sample_02_236	NCBI GEO/SRA	Cell line	Colon	V206	V206	GSE77737	GSM2058034	GSM2058107
+Sample_02_237	NCBI GEO/SRA	Cell line	Colon	V389	V389	GSE77737	GSM2058035	GSM2058108
+Sample_02_240	NCBI GEO/SRA	Cell line	Colon	V429_2	V429	GSE77737	GSM2058038	GSM2058111
+Sample_02_241	NCBI GEO/SRA	Cell line	Colon	V456	V456	GSE77737	GSM2058040	GSM2058112
+Sample_02_242	NCBI GEO/SRA	Cell line	Colon	V481	V481	GSE77737	GSM2058042	GSM2058113
+Sample_02_243	NCBI GEO/SRA	Other	Foreskin	foreskin_HFFs	foreskin HFFs	GSE78096	GSM2066623	GSM2066626
+Sample_02_244	NCBI GEO/SRA	Other	Foreskin	foreskin_D11	foreskin D11	GSE78096	GSM2066625	GSM2066630
+Sample_02_246	NCBI GEO/SRA	Cell line	Mammary Gland	MCF-7_estradiol	MCF-7	GSE78913	GSM2175784	GSM2175786
+Sample_02_247	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	MOLT4_2	MOLT4	GSE79288	GSM2090931	GSM2090932
+Sample_02_248	NCBI GEO/SRA	Cell line	Blood	MD901_shCREBBP	MD901 	GSE79639	GSM2100286	GSM2100287
+Sample_02_249	NCBI GEO/SRA	Cell line	Blood	MD901_WD	MD901 	GSE79639	GSM2100297	GSM2100298
+Sample_02_250	NCBI GEO/SRA	Tissue	Brain	tumormodel3691	tumor model: 3691	GSE79734	GSM2101766	GSM2101769
+Sample_02_251	NCBI GEO/SRA	Cell line	Autonomic ganglia	SH-SY5Y-MYCN-OFF	SH-SY5Y	GSE80197	GSM2120706	GSM2120708
+Sample_02_252	NCBI GEO/SRA	Cell line	Neuroblastoma 	IMR5-75-shMYCN-MYCN_high	IMR5-75	GSE80197	GSM2120713	GSM2120715
+Sample_02_253	NCBI GEO/SRA	Cell line	Brain	BE2C_DMSO	BE2C	GSE80445	GSM2127461	GSM2127463
+Sample_02_254	NCBI GEO/SRA	Cell line	Neuroblastoma 	IMR5-75	IMR5-75	GSE80445	GSM2127467	GSM2127469
+Sample_02_255	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	MOLM13	MOLM13	GSE80779	GSM2136938	GSM2136942
+Sample_02_256	NCBI GEO/SRA	Cell line	Peripheral blood	MV411	MV411	GSE80779	GSM2136946	GSM2136948
+Sample_02_257	NCBI GEO/SRA	Tissue	Endometrioid	endometrioid_adenocarcinoma_TumorA	Tumor_A	GSE81213	GSM2144749	GSM2144768
+Sample_02_258	NCBI GEO/SRA	Other	Lung	NCI-H1299_EGFP-NEO_reporter_cells_DMSO	NCI-H1299 EGFP-NEO reporter cells 	GSE81322	GSM2150362	GSM2150369
+Sample_02_259	NCBI GEO/SRA	Other	Lung	NCI-H1299_EGFP-NEO_reporter_cells_SAHA	NCI-H1299 EGFP-NEO reporter cells 	GSE81322	GSM2150370	GSM2150377
+Sample_02_260	NCBI GEO/SRA	Other	Lung	NCI-H1299_EGFP-NEO_reporter_cells_SB939	NCI-H1299 EGFP-NEO reporter cells 	GSE81322	GSM2150378	GSM2150385
+Sample_02_261	NCBI GEO/SRA	Cell line	Osteoblastic 	hFOB_differentiated	hFOB	GSE82295	GSM2188465	GSM2188457
+Sample_02_262	NCBI GEO/SRA	Cell line	Osteoblastic 	hFOB_JQ1_differentiated	hFOB	GSE82295	GSM2188467	GSM2188460
+Sample_02_263	NCBI GEO/SRA	Cell line	Osteoblastic 	hFOB_undifferentiated	hFOB	GSE82295	GSM2188470	GSM2188462
+Sample_02_264	NCBI GEO/SRA	Cell line	Skeletal muscle	7250-empty	7250	GSE83725	GSM2214081	GSM2214079
+Sample_02_265	NCBI GEO/SRA	Cell line	Skeletal muscle	7250-PAX3-FOXO1	7250	GSE83725	GSM2214082	GSM2214080
+Sample_02_266	NCBI GEO/SRA	Other	Bronchial	HBE(Primary human bronchial epithelial cells)	HBE(Primary human bronchial epithelial cells)	GSE85401	GSM2266289	GSM2266284
+Sample_02_267	NCBI GEO/SRA	Cell line	Kidney	786-O	786-O	GSE86087	GSM2293336	GSM2293333
+Sample_02_268	NCBI GEO/SRA	Cell line	Kidney	A-498	A-498	GSE86087	GSM2293338	GSM2293340
+Sample_02_269	NCBI GEO/SRA	Cell line	Kidney	HK-2 	HK-2 	GSE86087	GSM2293342	GSM2293344
+Sample_02_270	NCBI GEO/SRA	Primary cell	Kidney	PCS-400	PCS-400	GSE86087	GSM2293347	GSM2293348
+Sample_02_271	NCBI GEO/SRA	Cell line	Kidney	20431713N	20431713N	GSE86091	GSM2293405	GSM2293404
+Sample_02_272	NCBI GEO/SRA	Cell line	Kidney	20431713T	20431713T	GSE86091	GSM2293409	GSM2293408
+Sample_02_273	NCBI GEO/SRA	Cell line	Endometriosis	hTERT_SCR	hTERT	GSE86810	GSM2308934	GSM2308939
+Sample_02_274	NCBI GEO/SRA	Cell line	Endometriosis	hTERT_KD	hTERT	GSE86810	GSM2308943	GSM2308948
+Sample_02_275	NCBI GEO/SRA	Tissue	Retina	FW14	FW14	GSE86981	GSM2316309	GSM2316360
+Sample_02_276	NCBI GEO/SRA	Tissue	Retina	FW15	FW15	GSE86981	GSM2316310	GSM2316361
+Sample_02_277	NCBI GEO/SRA	Tissue	Retina	FW18	FW18	GSE86981	GSM2316311	GSM2316363
+Sample_02_278	NCBI GEO/SRA	Tissue	Retina	FW24	FW24	GSE86981	GSM2316312	GSM2316366
+Sample_02_279	NCBI GEO/SRA	Tissue	Retina	RB	RB	GSE86981	GSM2316313	GSM2316368
+Sample_02_280	NCBI GEO/SRA	Cell line	Mammary Gland	SUM159_DMSO_24h	SUM159 	GSE87418	GSM2330561	GSM2330573
+Sample_02_281	NCBI GEO/SRA	Cell line	Bone	U2OS	U2OS	GSE87831	GSM2341636	GSM2341640
+Sample_02_282	NCBI GEO/SRA	Cell line	Lung	IMR-90	IMR-90	GSE87831	GSM2341643	GSM2341645
+Sample_02_283	NCBI GEO/SRA	Primary cell	Peripheral blood	p7-CLL-patient_CD74	p7-CLL-patient_CD74	GSE88955	GSM2356348	GSM2356349
+Sample_02_284	NCBI GEO/SRA	Tissue	Pelvis	patient 119	patient 119	GSE89026	GSM2357597	GSM2357604
+Sample_02_285	NCBI GEO/SRA	Cell line	Liver	HuH7_untreat	HuH7	GSE89212	GSM2360939	GSM2360954
+Sample_02_286	NCBI GEO/SRA	Cell line	Liver	HuH7_IL-1alpha_1h	HuH7	GSE89212	GSM2360941	GSM2360955
+Sample_02_288	NCBI GEO/SRA	Other	Tonsil	CB5_H3K27Ac	CB5	GSE89688	GSM2386722	GSM2386725
+Sample_02_293	NCBI GEO/SRA	Cell line	Pancreatic	L3-6_4SC-202	L3.6	GSE90110	GSM2398386	GSM2398383
+Sample_02_294	NCBI GEO/SRA	Cell line	Pancreatic	L3-6_DMSO	L3.6	GSE90110	GSM2398388	GSM2398380
+Sample_02_295	NCBI GEO/SRA	Cell line	Lung	A549_TGFbeta_72h	A549	GSE90565	GSM2406904	GSM2406898
+Sample_02_296	NCBI GEO/SRA	Cell line	Neuroblastoma 	CLB-BER-Lud	CLB-BER-Lud	GSE90683	GSM2664313	GSM2664314
+Sample_02_297	NCBI GEO/SRA	Cell line	Neuroblastoma 	CLB-CAR 	CLB-CAR 	GSE90683	GSM2664315	GSM2664316
+Sample_02_298	NCBI GEO/SRA	Cell line	Neuroblastoma 	CLB-GA	CLB-GA	GSE90683	GSM2664317	GSM2664318
+Sample_02_299	NCBI GEO/SRA	Cell line	Neuroblastoma 	CLB-MA	CLB-MA	GSE90683	GSM2664321	GSM2664322
+Sample_02_300	NCBI GEO/SRA	Cell line	Neuroblastoma 	CLB-PE	CLB-PE	GSE90683	GSM2664323	GSM2664324
+Sample_02_301	NCBI GEO/SRA	Cell line	Neuroblastoma 	GIMEN	GIMEN	GSE90683	GSM2664325	GSM2664326
+Sample_02_302	NCBI GEO/SRA	Cell line	Neuroblastoma 	IMR32	IMR32	GSE90683	GSM2664327	GSM2664328
+Sample_02_303	NCBI GEO/SRA	Cell line	Neuroblastoma 	LAN1	LAN1	GSE90683	GSM2664329	GSM2664330
+Sample_02_304	NCBI GEO/SRA	Cell line	Neuroblastoma 	N206	N206	GSE90683	GSM2664331	GSM2664332
+Sample_02_305	NCBI GEO/SRA	Cell line	Neuroblastoma 	SH-EP 	SH-EP 	GSE90683	GSM2664333	GSM2664334
+Sample_02_306	NCBI GEO/SRA	Cell line	Autonomic ganglia	SH-SY5Y	SH-SY5Y	GSE90683	GSM2664335	GSM2664336
+Sample_02_307	NCBI GEO/SRA	Cell line	Neuroblastoma 	SJNB12	SJNB12	GSE90683	GSM2664337	GSM2664338
+Sample_02_308	NCBI GEO/SRA	Cell line	Neuroblastoma 	SJNB1	SJNB1	GSE90683	GSM2664339	GSM2664340
+Sample_02_309	NCBI GEO/SRA	Cell line	Neuroblastoma 	SJNB6	SJNB6	GSE90683	GSM2664341	GSM2664342
+Sample_02_310	NCBI GEO/SRA	Cell line	Neuroblastoma 	SJNB8	SJNB8	GSE90683	GSM2664343	GSM2664344
+Sample_02_311	NCBI GEO/SRA	Cell line	Neuroblastoma 	SK-N-AS	SK-N-AS	GSE90683	GSM2664345	GSM2664346
+Sample_02_312	NCBI GEO/SRA	Cell line	Neuroblastoma 	SK-N-BE_2-C	SK-N-BE(2)-C	GSE90683	GSM2664347	GSM2664348
+Sample_02_313	NCBI GEO/SRA	Cell line	Neuroblastoma 	SK-N-DZ	SK-N-DZ	GSE90683	GSM2664349	GSM2664350
+Sample_02_314	NCBI GEO/SRA	Cell line	Neuroblastoma 	SK-N-FI	SK-N-FI	GSE90683	GSM2664351	GSM2664352
+Sample_02_315	NCBI GEO/SRA	Cell line	Neuroblastoma 	TR14	TR14	GSE90683	GSM2664353	GSM2664354
+Sample_02_316	NCBI GEO/SRA	Cell line	Neuroblastoma 	CHP212	CHP212	GSE90683	GSM2664355	GSM2664356
+Sample_02_317	NCBI GEO/SRA	Cell line	Neuroblastoma 	GICAN	GICAN	GSE90683	GSM2664357	GSM2664358
+Sample_02_318	NCBI GEO/SRA	Cell line	Neuroblastoma 	NB69	NB69	GSE90683	GSM2664359	GSM2664360
+Sample_02_319	NCBI GEO/SRA	Cell line	Neuroblastoma 	NB-EBc1	NB-EBc1	GSE90683	GSM2664363	GSM2664364
+Sample_02_320	NCBI GEO/SRA	Cell line	Peripheral blood 	MO1043_ICN1_HA_H3K27Ac_a	MO1043	GSE92701	GSM2435527	GSM2435534
+Sample_02_321	NCBI GEO/SRA	Cell line	Peripheral blood 	MO1043_ICN1_HA_H3K27Ac_b	MO1043	GSE92701	GSM2435531	GSM2435534
+Sample_02_322	NCBI GEO/SRA	Cell line	Colon	Caco-2	Caco-2	GSE96069	GSM2532773	GSM2532774
+Sample_02_323	NCBI GEO/SRA	Cell line	Colon	RKO	RKO	GSE96069	GSM2532775	GSM2532776
+Sample_02_324	NCBI GEO/SRA	Cell line	Colon	SW48	SW48	GSE96069	GSM2532777	GSM2532778
+Sample_02_325	NCBI GEO/SRA	Primary cell	Liver	hepatocytes_d1	hepatocytes_d1	GSE99301	GSM2644050	GSM2644057
+Sample_02_326	NCBI GEO/SRA	Primary cell	Liver	hepatocytes_d3	hepatocytes_d3	GSE99301	GSM2644053	GSM2644058
+Sample_02_327	NCBI GEO/SRA	Primary cell	Liver	hepatocytes_d6	hepatocytes_d6	GSE99301	GSM2644056	GSM2644059
+Sample_02_328	NCBI GEO/SRA	Stem cell	Embryo	H9_naive	H9	GSE99627	GSM2648925	GSM2648929
+Sample_02_329	NCBI GEO/SRA	Stem cell	Embryo	H9_primed	H9	GSE99627	GSM2648926	GSM2648930
+Sample_02_330	NCBI GEO/SRA	Stem cell	Endoderm	MHG	MHG	GSE52657	GSM1273670	GSM1273667
+Sample_02_331	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	MOLM14_untreated	MOLM14	GSE65138	GSM1587893	GSM1587891
+Sample_02_332	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	MOLM14_DMSO_9	MOLM14	GSE65138	GSM1587909	GSM1587908
+Sample_02_333	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	MOLM14_DMSO_10	MOLM14	GSE65138	GSM1587911	GSM1587910
+Sample_02_334	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	MOLM14_CA25_11	MOLM14	GSE65138	GSM1587913	GSM1587912
+Sample_02_335	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	MOLM14_CA25_12	MOLM14	GSE65138	GSM1587915	GSM1587914
+Sample_02_336	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	SET2	SET2	GSE65138	GSM1587921	GSM1587920
+Sample_02_337	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	MV411_untreat	MV411	GSE65138	GSM1587925	GSM1587924
+Sample_02_338	NCBI GEO/SRA	Cell line	Neuroblastoma	BE2	BE2	GSE65664	GSM1680101	GSM1680103
+Sample_02_339	NCBI GEO/SRA	Cell line	Neuroblastoma	NGP	NGP	GSE65664	GSM1680104	GSM1680106
+Sample_02_340	NCBI GEO/SRA	Cell line	Brain	BE2C_2	BE2C	GSE65664	GSM1680107	GSM1680108
+Sample_02_341	NCBI GEO/SRA	Cell line	Autonomic ganglia	SH-SY5Y_untreat	SH-SY5Y	GSE65664	GSM1602665	GSM1602669
+Sample_02_342	NCBI GEO/SRA	Primary cell	Liver	HSPCs_F0	HSPCs (F0)	GSE70660	GSM1816073	GSM1816094
+Sample_02_343	NCBI GEO/SRA	Primary cell	Bone marrow	HSPC_A0	HSPCs (A0)	GSE70660	GSM1816075	GSM1816095
+Sample_02_344	NCBI GEO/SRA	Primary cell	Blood	CD34	CD34+ from blood	GSE71809	GSM2152595	GSM2152598
+Sample_02_345	NCBI GEO/SRA	Primary cell	Blood	AML8	AML blast cells from blood	GSE71809	GSM2152602	GSM1846177
+Sample_02_346	NCBI GEO/SRA	Primary cell	Blood	AML10	AML blast cells from blood	GSE71809	GSM2152605	GSM1846207
+Sample_02_347	NCBI GEO/SRA	Primary cell	Blood	AML11	AML blast cells from blood	GSE71809	GSM2152609	GSM1846188
+Sample_02_348	NCBI GEO/SRA	Cell line	Peripheral blood	CUTLL1_wild-type	CUTLL1	GSE72175	GSM1857031	GSM1857030
+Sample_02_349	NCBI GEO/SRA	Cell line	Peripheral blood	CUTLL1_dimer-mutant	CUTLL1	GSE72175	GSM1857033	GSM1857032
+Sample_02_350	NCBI GEO/SRA	Tissue	Dorsolateral prefrontal cortex	dorsolateral-prefrontal-cortex	dorsolateral prefrontal cortex	GSE72468	GSM1866052	GSM1866054
+Sample_02_351	NCBI GEO/SRA	Tissue	Hippocampus	hippocampus	hippocampus	GSE72468	GSM1866055	GSM1866057
+Sample_02_352	NCBI GEO/SRA	Cell line	Colon	HCT116	HCT116	GSE73319	GSM1890730	GSM1890731
+Sample_02_353	NCBI GEO/SRA	Cell line	Colon	HT29	HT29	GSE73319	GSM1890734	GSM1890735
+Sample_02_354	NCBI GEO/SRA	Cell line	Colon	Colo205	Colo205	GSE73319	GSM1890738	GSM1890739
+Sample_02_355	NCBI GEO/SRA	Cell line	Colon	HCT15	HCT15	GSE73319	GSM1890742	GSM1890743
+Sample_02_356	NCBI GEO/SRA	Cell line	Colon	Sw480	Sw480	GSE73319	GSM1890746	GSM1890747
+Sample_02_357	NCBI GEO/SRA	Cell line	Colon	Colo320	Colo320	GSE73319	GSM1890750	GSM1890751
+Sample_02_358	NCBI GEO/SRA	Cell line	Colon	LS180	LS180	GSE73319	GSM1890754	GSM1890756
+Sample_02_359	NCBI GEO/SRA	Cell line	Colon	Colo741	Colo741	GSE73319	GSM1890757	GSM1890759
+Sample_02_360	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	SEM	SEM	GSE74812	GSM1934089	GSM1934094
+Sample_02_361	NCBI GEO/SRA	Cell line	Colon	HT29_DMSO	HT29	GSE77039	GSM2042874	GSM2042894
+Sample_02_362	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	REH	REH	GSE79870	GSM2107710	GSM2107711
+Sample_02_363	NCBI GEO/SRA	Cell line	Haematopoietic and lymphoid tissue	697	697	GSE79870	GSM2107712	GSM2107713
+Sample_02_364	NCBI GEO/SRA	Cell line	Skeletal muscle	CTR	CTR	GSE83726	GSM2214085	GSM2214086
+Sample_02_365	NCBI GEO/SRA	Tissue	Skeletal muscle	NCI0075	NCI0075	GSE83726	GSM2214087	GSM2214088
+Sample_02_366	NCBI GEO/SRA	Tissue	Skeletal muscle	NCI0082	NCI0082	GSE83726	GSM2214089	GSM2214090
+Sample_02_367	NCBI GEO/SRA	Tissue	Skeletal muscle	NS129	NS129	GSE83726	GSM2214091	GSM2214092
+Sample_02_368	NCBI GEO/SRA	Tissue	Skeletal muscle	NS134	NS134	GSE83726	GSM2214093	GSM2214094
+Sample_02_369	NCBI GEO/SRA	Cell line	Skeletal muscle	RD	RD	GSE83726	GSM2214095	GSM2214096
+Sample_02_370	NCBI GEO/SRA	Cell line	Skeletal muscle	RH4	RH4	GSE83726	GSM2214104	GSM2214110
+Sample_02_371	NCBI GEO/SRA	Cell line	Skeletal muscle	RH5	RH5	GSE83726	GSM2214121	GSM2214122
+Sample_02_372	NCBI GEO/SRA	Tissue	Skeletal muscle	RMS008	RMS008	GSE83726	GSM2214123	GSM2214124
+Sample_02_373	NCBI GEO/SRA	Tissue	Skeletal muscle	RMS206	RMS206	GSE83726	GSM2214125	GSM2214126
+Sample_02_374	NCBI GEO/SRA	Tissue	Skeletal muscle	RMS209	RMS209	GSE83726	GSM2214127	GSM2214128
+Sample_02_375	NCBI GEO/SRA	Tissue	Skeletal muscle	RMS216	RMS216	GSE83726	GSM2214129	GSM2214130
+Sample_02_376	NCBI GEO/SRA	Tissue	Skeletal muscle	RMS237	RMS237	GSE83726	GSM2214131	GSM2214132
+Sample_02_377	NCBI GEO/SRA	Tissue	Skeletal muscle	RMS238	RMS238	GSE83726	GSM2214133	GSM2214134
+Sample_02_378	NCBI GEO/SRA	Cell line	Skeletal muscle	SCMC	SCMC	GSE83726	GSM2214135	GSM2214136
+Sample_02_379	NCBI GEO/SRA	Cell line	Skeletal muscle	RD-Fusion-Negative-Rhabdomyosarcoma	RD Fusion Negative Rhabdomyosarcoma cell line	GSE84628	GSM2243113	GSM2243114
+Sample_02_380	NCBI GEO/SRA	Cell line	Skeletal muscle	RH18	RH18 Fusion Negative Rhabdomyosarcoma cell line	GSE84628	GSM2243115	GSM2243117
+Sample_02_381	NCBI GEO/SRA	Primary cell	Heart	purified cardiomyocyte WT	purified cardiomyocyte WT	GSE85628	GSM2280005	GSM2280009
+Sample_02_382	NCBI GEO/SRA	Primary cell	Heart	purified cardiomyocyte G296S mutants	purified cardiomyocyte G296S mutants	GSE85628	GSM2280036	GSM2280040
+Sample_02_383	NCBI GEO/SRA	Other	Blood	Ik6pre-BALL+TET-emptyvector	Ik6 pre-B ALL + TET-empty vector	GSE90656	GSM2410100	GSM2410108
+Sample_02_384	NCBI GEO/SRA	Other	Blood	Ik6pre-BALL+TET-Ik1	Ik6 pre-B ALL + TET-Ik1	GSE90656	GSM2410102	GSM2410109
+Sample_02_385	NCBI GEO/SRA	Primary cell	Lymph node	CD19+_B_cells_FL3A	CD19+ B cells	GSE62245	GSM1523532	GSM1523533
+Sample_02_386	NCBI GEO/SRA	Primary cell	Lymph node	CD19+_B_cells_FL1-2	CD19+ B cells	GSE62245	GSM1523535	GSM1523537
+Sample_02_387	NCBI GEO/SRA	Primary cell	Lymph node	CD19+_B_cells_nhl_FL1-2	CD19+ B cells	GSE62245	GSM1523544	GSM1523546
+Sample_02_388	NCBI GEO/SRA	Primary cell	Tonsil	CD19+_CD10+_CD44low_CXCR4+_B_cells	CD19+/CD10+/CD44low/CXCR4+ B cells	GSE62245	GSM1523578	GSM1523580
+Sample_02_389	NCBI GEO/SRA	Primary cell	Peripheral blood	CD19+_B_cells_nhl	CD19+ B cells	GSE62245	GSM1523620	GSM1523621
+Sample_02_390	NCBI GEO/SRA	Primary cell	Peripheral blood	CD19+_B_cells	CD19+ B cells	GSE62245	GSM1523622	GSM1523623
+Sample_02_391	NCBI GEO/SRA	Primary cell	"Activated (IL4, anti-CD40, IgM, and IgD) peripheral blood"	CD19+_B_cells_Activated_M	CD19+ B cells	GSE62245	GSM1523610	GSM1523612
+Sample_02_393	NCBI GEO/SRA	Primary cell	"Activated (IL4, anti-CD40, IgM, and IgD) peripheral blood"	CD19+_B_cells_Activated_F	CD19+ B cells	GSE62245	GSM1523618	GSM1523619
+Sample_02_394	NCBI GEO/SRA	Cell line	Mammary Gland	T-47D_2	T-47D	GSE65201	GSM1589474	GSM1589473
+Sample_02_395	NCBI GEO/SRA	Cell line	Mammary Gland	BT-549	BT-549	GSE65201	GSM1589476	GSM1589475
+Sample_02_396	NCBI GEO/SRA	Other	Skin	NHEK-D	NHEK	GSE68257	GSM1666386	GSM1666385
+Sample_02_397	NCBI GEO/SRA	Cell line	Mammary Gland	CAL51-MCF-7	CAL51-MCF-7	GSE69112	GSM1693016	GSM1693028
+Sample_02_398	NCBI GEO/SRA	Cell line	Mammary Gland	MDA-MB-231-MCF-7	MDA-MB-231-MCF-7	GSE69112	GSM1693019	GSM1693031
+Sample_02_399	NCBI GEO/SRA	Cell line	Mammary Gland	SUM159PT-BT-474	SUM159PT-BT-474	GSE69112	GSM1693020	GSM1693032
+Sample_02_400	NCBI GEO/SRA	Cell line	Mammary Gland	SUM159PT-MCF-7	SUM159PT-MCF-7	GSE69112	GSM1693022	GSM1693033
+Sample_02_401	NCBI GEO/SRA	Cell line	Mammary Gland	SUM159PT-T47D	SUM159PT-T47D	GSE69112	GSM1693023	GSM1693034
+Sample_02_402	NCBI GEO/SRA	Cell line	Mammary Gland	SUM159PT-ZR-75-1	SUM159PT-ZR-75-1	GSE69112	GSM1693024	GSM1693035
+Sample_02_403	NCBI GEO/SRA	Cell line	Mammary Gland	T-47D_untreat	T-47D	GSE69112	GSM1693025	GSM1693036
+Sample_02_404	NCBI GEO/SRA	Cell line	Mammary Gland	ZR-75-1_2	ZR-75-1	GSE69112	GSM1693026	GSM1693037
+Sample_02_405	NCBI GEO/SRA	Cell line	Mammary Gland	ZR-75-30_KO	ZR-75-30	GSE71323	GSM1832647	GSM1832651
+Sample_02_406	NCBI GEO/SRA	Cell line	Mammary Gland	ZR-75-30_parental	ZR-75-30	GSE71323	GSM1832646	GSM1832650
+Sample_02_407	NCBI GEO/SRA	Cell line	Brain	BT16	BT16	GSE71504	GSM1835890	GSM1835906
+Sample_02_408	NCBI GEO/SRA	Cell line	Kidney	G401_Dox	G401	GSE71504	GSM1835873	GSM1835901
+Sample_02_409	NCBI GEO/SRA	Cell line	Kidney	G401_NoDox	G401	GSE71504	GSM1835878	GSM1835902
+Sample_02_410	NCBI GEO/SRA	Cell line	Brain	BT16_NoDox	BT16	GSE71504	GSM1835887	GSM1835905
+Sample_02_411	NCBI GEO/SRA	Cell line	Liver	TTC549_untreated	TTC549	GSE71504	GSM1835895	GSM1835907
+Sample_02_412	NCBI GEO/SRA	Cell line	Liver	TTC549_Doxycycline	TTC549	GSE71504	GSM1835900	GSM1835908
+Sample_02_413	NCBI GEO/SRA	Tissue	Brain	GBM_2493	GBM_2493	GSE72468	GSM1866060	GSM1866061
+Sample_02_414	NCBI GEO/SRA	Cell line	Foreskin 	BJEL	BJEL	GSE72532	GSM1869142	GSM1869145
+Sample_02_415	NCBI GEO/SRA	Cell line	Stomach	YCC22	YCC22	GSE75898	GSM1969634	GSM1969635
+Sample_02_416	NCBI GEO/SRA	Stem cell	Embryo	H9_Het	H9	GSE76626	GSM2029356	GSM2029358
+Sample_02_417	NCBI GEO/SRA	Stem cell	Embryo	H9_Null	H9	GSE76626	GSM2029361	GSM2029363
+Sample_02_418	NCBI GEO/SRA	Stem cell	Embryo	H9_Null+EZH2	H9	GSE76626	GSM2029366	GSM2029368
+Sample_02_419	NCBI GEO/SRA	Cell line	Pectoralis major muscle	LHCN-M2_nodox	LHCN-M2	GSE78158	GSM2068356	GSM2068355
+Sample_02_420	NCBI GEO/SRA	Cell line	Pectoralis major muscle	LHCN-M2_dox_6h	LHCN-M2	GSE78158	GSM2068364	GSM2068362
+Sample_02_421	NCBI GEO/SRA	Cell line	Brain	BE2C_3	BE2C	GSE80197	GSM2120701	GSM2120703
+Sample_02_422	NCBI GEO/SRA	Other	Lung	NCI-H1299_EGFP-NEO_reporter_cells_DACSB	NCI-H1299 EGFP-NEO reporter cells 	GSE81322	GSM2150354	GSM2150361
+Sample_02_423	NCBI GEO/SRA	Cell line	Skin	A375	A375	GSE82332	GSM2190579	GSM2190580
+Sample_02_424	NCBI GEO/SRA	Cell line	Colon	SW620	SW620	GSE96069	GSM2532779	GSM2532780
+Sample_02_425	NCBI GEO/SRA	Cell line	Malignant pleural fluid posthumously	ZNF532-NUT_24335	ZNF532-NUT 24335	GSE96775	GSM2543130	GSM2543126
+Sample_02_426	NCBI GEO/SRA	Cell line	Colon	HCT116_NONT	HCT116	GSE97527	GSM2667958	GSM2571023
+Sample_02_427	NCBI GEO/SRA	Cell line	Colon	HCT116_shPAF1	HCT116	GSE97527	GSM2667960	GSM2571026
+Sample_02_428	NCBI GEO/SRA	Cell line	Kidney	12364284_VHL-	12364284	GSE102095	GSM2723842	GSM2723845
+Sample_02_429	NCBI GEO/SRA	Cell line	Kidney	12364284_VHL+	12364284	GSE102095	GSM2723846	GSM2723849
+Sample_02_430	NCBI GEO/SRA	Cell line	Kidney	12364284	12364284	GSE86087	GSM2293322	GSM2293323
+Sample_02_431	NCBI GEO/SRA	Primary cell	Peripheral blood	CD34+HSPC-derived-erythroid-precursors	Erythroid precursor cells	GSE93372	GSM2452104	GSM2452105
+Sample_02_433	NCBI GEO/SRA	Other	Lung	NCI-H1299_EGFP-NEO_reporter_cells_DAC	NCI-H1299 EGFP-NEO reporter cells 	GSE81322	GSM2150346	GSM2150353
+Sample_02_434	NCBI GEO/SRA	Cell line	Kidney	HEK293	HEK293	GSE81696	GSM2171416	GSM2171418
+Sample_02_435	NCBI GEO/SRA	Cell line	Kidney	HEK293A_WT-MEF2B_DMSO_6h	HEK293A	GSE67455	GSM1647364	GSM1647372
+Sample_02_436	NCBI GEO/SRA	Cell line	Kidney	HEK293A_empty-vector_DMSO_6h	HEK293A	GSE67455	GSM1647366	GSM1647374
+Sample_03_001	GGR	Primary cell	Foreskin	foreskin-keratinocyte	foreskin-keratinocyte	-	ENCSR736ZEG	ENCSR982AYN
+Sample_03_002	GGR	Primary cell	Foreskin	foreskin-keratinocyte-calcium2.5day	foreskin-keratinocyte	-	ENCSR709ABP	ENCSR113CMI
+Sample_03_003	GGR	Primary cell	Foreskin	foreskin-keratinocyte-calcium5.5day	foreskin-keratinocyte	-	ENCSR637ISS	ENCSR528SMB
+Sample_03_004	GGR	Cell line	Lung	A549_dexamethasone_4h	A549	GSE91282|GSE91347	ENCSR543ZVZ	ENCSR872BBM
+Sample_03_005	GGR	Cell line	Lung	A549_dexamethasone_0.5h	A549	GSE91201|GSE91274	ENCSR102XUM	ENCSR491TAD
+Sample_03_007	GGR	Cell line	Lung	A549_dexamethasone_12h	A549	GSE91263|GSE91286	ENCSR435JKM	ENCSR549SVK
+Sample_03_008	GGR	Cell line	Lung	A549_dexamethasone_7h	A549	GSE91292|GSE91241	ENCSR569IBY	ENCSR317VER
+Sample_03_009	GGR	Cell line	Lung	A549_dexamethasone_3h	A549	GSE91248|GSE91242	ENCSR350EFV	ENCSR325PXS
+Sample_03_010	GGR	Cell line	Lung	A549_dexamethasone_1h	A549	GSE91225|GSE91285	ENCSR242TBH	ENCSR548SPY
+Sample_03_011	GGR	Cell line	Lung	A549_dexamethasone_5h	A549	GSE91326|GSE91304	ENCSR716XDB	ENCSR627RBH
+Sample_03_013	GGR	Cell line	Lung	A549	A549	GSE91337|GSE91343	ENCSR783SNV	ENCSR838ZAU
+Sample_03_014	GGR	Cell line	Lung	A549_dexamethasone_2h	A549	GSE91301|GSE91246	ENCSR614NPG	ENCSR344ERJ
+Sample_03_015	GGR	Cell line	Lung	A549_dexamethasone_8h	A549	GSE91226|GSE91232	ENCSR250EHC	ENCSR274VPI
+Sample_03_016	GGR	Cell line	Lung	A549_dexamethasone_6h	A549	GSE91245|GSE91349	ENCSR340NAL	ENCSR887SZF

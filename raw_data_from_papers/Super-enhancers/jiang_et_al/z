@@ -1,0 +1,714 @@
+#Split in new
+chr1	143978838	144029385	Sample_00_003
+#Split in new
+chr1	120746998	120773296	Sample_00_003
+#Split in new
+chr1	1580867	1595245	Sample_00_003
+#Split in new
+chr19	54772855	54804503	Sample_00_006
+#Split in new
+chr1	145091297	145145491	Sample_00_015
+#Split in new
+chr10	18040203	18051556	Sample_00_020
+#Split in new
+chr1	144674418	144710831	Sample_00_021
+#Split in new
+chr1	1581897	1595044	Sample_00_022
+#Split in new
+chr1	1580983	1595183	Sample_00_025
+#Split in new
+chr1	1581383	1595224	Sample_00_026
+#Split in new
+chr1	145090390	145155799	Sample_00_031
+#Split in new
+chr1	144674740	144710812	Sample_00_032
+#Partially deleted in new
+chr1	121483693	121485530	Sample_00_032
+#Split in new
+chr1	144674393	144710858	Sample_00_033
+#Partially deleted in new
+chr1	121483039	121485578	Sample_00_033
+#Split in new
+chrX	49011128	49026088	Sample_00_034
+#Split in new
+chr7	100608230	100627644	Sample_00_035
+#Split in new
+chr1	1580351	1591667	Sample_00_040
+#Split in new
+chr10	47043368	47110867	Sample_01_006
+#Split in new
+chr10	47043767	47109705	Sample_01_012
+#Split in new
+chr10	51368850	51374598	Sample_01_012
+#Split in new
+chr16	46385776	46435790	Sample_01_017
+#Split in new
+chr2	242743346	242777521	Sample_01_017
+#Split in new
+chr1	145073235	145162812	Sample_01_018
+#Split in new
+chr1	145083275	145098658	Sample_01_019
+#Split in new
+chr1	1563537	1592272	Sample_01_021
+#Split in new
+chr9	45484460	45488791	Sample_01_021
+#Split in new
+chr1	143979182	144074112	Sample_01_024
+#Split in new
+chr1	120747000	120772711	Sample_01_024
+#Split in new
+chr14	106440291	106525020	Sample_01_025
+#Split in new
+chr14	106537549	106604461	Sample_01_025
+#Split in new
+chr4	75452262	75493256	Sample_01_027
+#Split in new
+chr10	47054611	47059926	Sample_01_036
+#Partially deleted in new
+chr3	194032204	194055090	Sample_01_036
+#Split in new
+chr1	1582592	1595074	Sample_01_039
+#Split in new
+chr4	75452163	75492984	Sample_01_041
+#Split in new
+chr10	51360951	51374431	Sample_01_041
+#Split in new
+chr14	106547922	106562396	Sample_01_043
+#Split in new
+chr14	106794212	106818845	Sample_01_044
+#Split in new
+chr1	145089465	145156443	Sample_01_044
+#Split in new
+chr14	106549636	106562187	Sample_01_044
+#Split in new
+chr1	149679105	149699090	Sample_01_044
+#Split in new
+chr4	75452149	75493231	Sample_01_045
+#Split in new
+chr1	143979893	143993632	Sample_01_051
+#Split in new
+chrX	46800432	46847165	Sample_01_054
+#Split in new
+chr1	145082634	145166363	Sample_01_056
+#Split in new
+chr10	47038509	47101243	Sample_01_057
+#Split in new
+chr4	75453400	75482350	Sample_01_062
+#Split in new
+chr1	144676414	144693843	Sample_01_063
+#Split in new
+chrX	52505024	52540898	Sample_01_064
+#Split in new
+chr1	145079576	145100911	Sample_01_064
+#Split in new
+chrX	52232084	52247054	Sample_01_064
+#Split in new
+chr16	46387976	46435579	Sample_01_064
+#Split in new
+chrX	152413325	152430004	Sample_01_064
+#Split in new
+chr1	1565501	1595234	Sample_01_069
+#Split in new
+chr8	145482967	145501127	Sample_01_070
+#Split in new
+chr8	145313914	145332015	Sample_01_070
+#Split in new
+chr10	42596586	42601056	Sample_01_071
+#Split in new
+chr1	144673632	144710848	Sample_01_076
+#Split in new
+chr22	18041546	18061983	Sample_01_078
+#Split in new
+chr1	144674645	144710883	Sample_01_081
+#Split in new
+chr22	18032249	18070712	Sample_01_081
+#Split in new
+chr22	18041740	18076697	Sample_01_082
+#Split in new
+chr1	145091152	145160434	Sample_01_085
+#Split in new
+chr1	145091293	145146506	Sample_01_087
+#Split in new
+chr19	40366295	40403961	Sample_01_087
+#Split in new
+chr1	145087832	145161733	Sample_01_088
+#Split in new
+chr1	143979447	144049963	Sample_01_088
+#Split in new
+chr1	120747088	120772687	Sample_01_088
+#Split in new
+chr1	1565550	1596477	Sample_01_090
+#Split in new
+chr4	75479727	75512090	Sample_02_002
+#Split in new
+chr1	144591702	144599544	Sample_02_002
+#Split in new
+chr14	106783098	106829768	Sample_02_003
+#Split in new
+chr8	145461021	145509023	Sample_02_004
+#Split in new
+chr8	145291968	145332595	Sample_02_004
+#Split in new
+chr1	145087366	145099199	Sample_02_009
+#Partially deleted in new
+chr3	194013025	194059813	Sample_02_010
+#Split in new
+chrX	62410481	62436562	Sample_02_010
+#Partially deleted in new
+chr3	193988487	194060090	Sample_02_011
+#Split in new
+chrX	62410953	62426444	Sample_02_011
+#Partially deleted in new
+chr1	121483665	121485555	Sample_02_014
+#Split in new
+chr2	242737508	242760539	Sample_02_015
+#Split in new
+chr1	1581140	1596826	Sample_02_016
+#Partially deleted in new
+chr3	193967126	194048941	Sample_02_019
+#Split in new
+chrX	62390649	62427645	Sample_02_021
+#Split in new
+chr1	143981158	144031611	Sample_02_027
+#Split in new
+chr1	145073423	145117372	Sample_02_030
+#Split in new
+chr14	106510887	106592969	Sample_02_031
+#Split in new
+chr7	142475299	142534644	Sample_02_034
+#Split in new
+chr14	106535122	106694139	Sample_02_035
+#Split in new
+chr7	142455572	142480453	Sample_02_038
+#Split in new
+chr7	142455808	142479420	Sample_02_045
+#Split in new
+chr1	143980734	144029858	Sample_02_047
+#Partially deleted in new
+chr3	194014109	194062004	Sample_02_048
+#Partially deleted in new
+chr3	194030017	194061550	Sample_02_049
+#Split in new
+chr1	145091339	145157096	Sample_02_057
+#Split in new
+chr4	75452272	75491139	Sample_02_057
+#Partially deleted in new
+chr3	194013933	194054765	Sample_02_057
+#Split in new
+chr14	106537587	106592468	Sample_02_058
+#Split in new
+chr14	106537657	106592481	Sample_02_059
+#Split in new
+chr14	106537837	106592851	Sample_02_060
+#Split in new
+chr16	46392689	46408042	Sample_02_062
+#Split in new
+chr4	75452137	75488456	Sample_02_063
+#Split in new
+chr1	145091298	145117846	Sample_02_064
+#Split in new
+chr10	51367188	51374952	Sample_02_064
+#Split in new
+chr1	145090100	145100896	Sample_02_065
+#Split in new
+chr10	51366969	51374799	Sample_02_065
+#Split in new
+chr1	145090813	145099264	Sample_02_066
+#Split in new
+chr10	51367698	51374617	Sample_02_066
+#Split in new
+chr1	145090955	145118635	Sample_02_067
+#Split in new
+chr1	145074410	145167395	Sample_02_069
+#Split in new
+chr1	145082112	145100625	Sample_02_073
+#Split in new
+chr1	145072876	145167177	Sample_02_074
+#Split in new
+chr2	242741028	242744880	Sample_02_075
+#Split in new
+chr2	91759419	91764919	Sample_02_078
+#Split in new
+chr1	143979163	144011750	Sample_02_081
+#Split in new
+chr1	120747053	120772971	Sample_02_081
+#Split in new
+chr1	145082662	145161639	Sample_02_093
+#Split in new
+chr1	144591654	144599458	Sample_02_096
+#Split in new
+chr10	42596607	42600622	Sample_02_097
+#Split in new
+chr4	75474790	75491532	Sample_02_097
+#Split in new
+chr16	46399349	46418399	Sample_02_097
+#Split in new
+chr4	75452159	75493454	Sample_02_099
+#Split in new
+chr1	145090449	145154640	Sample_02_099
+#Split in new
+chr10	18054547	18127997	Sample_02_100
+#Split in new
+chr1	145087897	145142236	Sample_02_101
+#Split in new
+chr10	18054494	18163445	Sample_02_101
+#Split in new
+chr10	17807515	17916528	Sample_02_101
+#Split in new
+chr10	17843555	17917274	Sample_02_102
+#Split in new
+chr10	18090543	18164191	Sample_02_102
+#Split in new
+chr1	143978912	144014201	Sample_02_102
+#Split in new
+chr1	120746988	120773146	Sample_02_102
+#Split in new
+chr1	145087943	145141547	Sample_02_102
+#Split in new
+chr10	18031914	18077003	Sample_02_102
+#Split in new
+chr1	145086644	145150155	Sample_02_103
+#Split in new
+chr1	143979505	144013913	Sample_02_104
+#Split in new
+chr4	75452169	75493358	Sample_02_105
+#Split in new
+chr8	145463821	145510654	Sample_02_106
+#Split in new
+chr8	145294768	145329356	Sample_02_106
+#Split in new
+chr2	90474982	90486180	Sample_02_106
+#Split in new
+chr8	145437111	145449152	Sample_02_106
+#Split in new
+chr1	144592814	144594521	Sample_02_106
+#Split in new
+chr1	145081428	145167888	Sample_02_107
+#Split in new
+chr1	143978921	144074148	Sample_02_107
+#Split in new
+chr4	75452942	75490270	Sample_02_107
+#Split in new
+chr1	145073479	145145461	Sample_02_108
+#Split in new
+chr4	75453352	75488545	Sample_02_111
+#Split in new
+chr1	145082870	145098469	Sample_02_112
+#Split in new
+chr1	145089535	145098472	Sample_02_113
+#Partially deleted in new
+chr3	194011931	194054717	Sample_02_114
+#Split in new
+chr16	46385704	46436010	Sample_02_118
+#Split in new
+chr16	46385750	46435877	Sample_02_120
+#Split in new
+chr10	42596646	42600979	Sample_02_120
+#Split in new
+chr10	42596629	42601470	Sample_02_123
+#Split in new
+chr1	145088199	145117905	Sample_02_124
+#Split in new
+chr7	64699981	64738927	Sample_02_124
+#Split in new
+chr16	46385992	46404749	Sample_02_133
+#Split in new
+chr16	46385834	46435635	Sample_02_134
+#Split in new
+chr10	42596664	42600600	Sample_02_134
+#Split in new
+chr16	46385805	46435622	Sample_02_135
+#Split in new
+chr10	42596680	42600589	Sample_02_135
+#Split in new
+chr16	46385786	46435596	Sample_02_136
+#Split in new
+chr1	145090708	145100538	Sample_02_138
+#Split in new
+chr1	143981948	144038562	Sample_02_146
+#Split in new
+chr14	106780902	106818164	Sample_02_146
+#Split in new
+chr1	145088326	145102932	Sample_02_150
+#Split in new
+chrX	49011054	49030949	Sample_02_151
+#Split in new
+chr10	42596676	42600302	Sample_02_160
+#Split in new
+chr1	145089550	145093390	Sample_02_161
+#Split in new
+chr17	1010569	1027130	Sample_02_164
+#Split in new
+chr17	1010569	1027130	Sample_02_165
+#Split in new
+chr1	145082799	145168373	Sample_02_171
+#Split in new
+chr1	145082805	145168031	Sample_02_172
+#Split in new
+chr10	51338557	51385378	Sample_02_172
+#Split in new
+chr14	106749596	106830870	Sample_02_176
+#Split in new
+chr14	106517709	106587909	Sample_02_176
+#Split in new
+chr1	145086370	145157261	Sample_02_176
+#Split in new
+chr1	145087771	145172347	Sample_02_177
+#Split in new
+chr7	74253062	74268980	Sample_02_181
+#Split in new
+chr1	145087876	145153598	Sample_02_182
+#Split in new
+chr7	74253053	74268222	Sample_02_183
+#Split in new
+chr7	74253083	74268260	Sample_02_184
+#Split in new
+chr7	74253065	74268420	Sample_02_185
+#Split in new
+chr1	145091520	145140505	Sample_02_185
+#Partially deleted in new
+chr3	194032541	194054353	Sample_02_204
+#Split in new
+chr17	1012786	1026472	Sample_02_204
+#Partially deleted in new
+chr3	194014148	194054174	Sample_02_207
+#Split in new
+chr1	145083358	145167579	Sample_02_209
+#Split in new
+chr2	19219957	19249377	Sample_02_209
+#Split in new
+chr1	143979134	144068192	Sample_02_210
+#Split in new
+chr1	145088054	145167276	Sample_02_210
+#Split in new
+chr1	120752428	120773000	Sample_02_210
+#Split in new
+chr1	143979558	144068113	Sample_02_211
+#Split in new
+chr1	120752729	120772576	Sample_02_211
+#Split in new
+chr8	145309054	145330703	Sample_02_211
+#Split in new
+chr8	145478107	145499815	Sample_02_211
+#Split in new
+chr1	144593090	144595260	Sample_02_211
+#Split in new
+chr1	148241095	148242534	Sample_02_212
+#Split in new
+chr1	148766036	148767329	Sample_02_212
+#Split in new
+chr1	143979050	144033146	Sample_02_213
+#Split in new
+chr1	143270378	143283858	Sample_02_215
+#Split in new
+chr1	149646460	149701078	Sample_02_215
+#Split in new
+chr2	90468039	90485502	Sample_02_215
+#Split in new
+chr1	144567390	144599136	Sample_02_215
+#Split in new
+chr9	67790995	67791862	Sample_02_215
+#Split in new
+chr1	143265863	143283896	Sample_02_216
+#Split in new
+chr1	149664177	149718974	Sample_02_216
+#Split in new
+chr2	90467918	90485725	Sample_02_216
+#Split in new
+chr1	144567331	144598888	Sample_02_216
+#Split in new
+chr8	145437199	145449393	Sample_02_216
+#Split in new
+chr1	144592892	144595369	Sample_02_220
+#Split in new
+chr14	106536460	106604778	Sample_02_221
+#Split in new
+chr14	106548203	106593210	Sample_02_223
+#Split in new
+chr14	106537412	106603855	Sample_02_225
+#Split in new
+chr14	106510164	106604529	Sample_02_226
+#Split in new
+chr7	142475265	142509365	Sample_02_231
+#Split in new
+chr7	142486786	142509173	Sample_02_232
+#Split in new
+chr1	143983049	144029412	Sample_02_233
+#Split in new
+chr1	120751330	120771719	Sample_02_233
+#Split in new
+chr1	143979027	144037676	Sample_02_234
+#Split in new
+chr1	120751209	120773107	Sample_02_234
+#Split in new
+chr7	100608252	100629510	Sample_02_236
+#Split in new
+chr17	1010689	1026087	Sample_02_236
+#Split in new
+chr7	100607359	100632139	Sample_02_237
+#Split in new
+chr17	1010090	1027224	Sample_02_241
+#Split in new
+chr7	100607590	100629467	Sample_02_241
+#Split in new
+chr7	100607344	100630482	Sample_02_242
+#Split in new
+chr1	145085410	145161963	Sample_02_243
+#Split in new
+chr1	145091432	145161096	Sample_02_244
+#Split in new
+chr14	106536815	106693022	Sample_02_247
+#Split in new
+chr10	18025227	18047538	Sample_02_247
+#Split in new
+chr16	46386125	46454307	Sample_02_248
+#Split in new
+chr10	42596693	42600310	Sample_02_248
+#Split in new
+chr16	46386281	46454319	Sample_02_249
+#Split in new
+chr10	42596719	42600282	Sample_02_249
+#Split in new
+chr8	145483508	145503180	Sample_02_250
+#Split in new
+chr8	145314455	145332662	Sample_02_250
+#Split in new
+chr2	242736818	242757403	Sample_02_250
+#Split in new
+chr8	145313957	145332629	Sample_02_251
+#Split in new
+chr8	145483010	145501842	Sample_02_251
+#Split in new
+chr2	242740948	242763754	Sample_02_251
+#Split in new
+chr17	77611560	77703712	Sample_02_252
+#Split in new
+chr2	91750007	91780134	Sample_02_253
+#Split in new
+chr2	242736857	242764562	Sample_02_253
+#Split in new
+chr17	77611922	77722658	Sample_02_254
+#Split in new
+chr8	145436633	145490489	Sample_02_255
+#Split in new
+chr1	143981073	144015029	Sample_02_256
+#Split in new
+chr1	120747040	120771061	Sample_02_256
+#Split in new
+chr1	143656051	143684304	Sample_02_257
+#Split in new
+chr17	1010595	1026561	Sample_02_258
+#Split in new
+chr1	145081760	145161864	Sample_02_261
+#Split in new
+chr1	145082614	145166261	Sample_02_262
+#Partially deleted in new
+chr3	193993501	194059930	Sample_02_268
+#Split in new
+chrX	62410951	62426110	Sample_02_268
+#Split in new
+chr10	48951817	48958993	Sample_02_268
+#Split in new
+chr1	145083108	145094161	Sample_02_268
+#Split in new
+chr16	46385805	46455993	Sample_02_273
+#Split in new
+chr10	42596721	42600254	Sample_02_273
+#Split in new
+chr1	145082775	145166433	Sample_02_274
+#Split in new
+chr1	144592968	144595413	Sample_02_274
+#Split in new
+chr8	145309375	145331212	Sample_02_275
+#Split in new
+chr8	145478428	145500324	Sample_02_275
+#Split in new
+chr16	46397576	46436127	Sample_02_280
+#Split in new
+chr8	145436732	145450454	Sample_02_293
+#Split in new
+chr2	242736637	242752930	Sample_02_304
+#Split in new
+chr1	145071262	145100367	Sample_02_305
+#Partially deleted in new
+chr3	193963195	194055149	Sample_02_312
+#Split in new
+chr2	242737030	242752444	Sample_02_313
+#Split in new
+chr1	145070343	145100202	Sample_02_314
+#Split in new
+chr1	145073483	145140140	Sample_02_317
+#Split in new
+chr2	91750381	91780444	Sample_02_319
+#Split in new
+chrX	62379547	62438747	Sample_02_320
+#Split in new
+chrX	62379529	62438765	Sample_02_321
+#Split in new
+chr8	145436252	145450961	Sample_02_323
+#Split in new
+chr1	144592829	144622346	Sample_02_325
+#Split in new
+chr22	18040992	18063983	Sample_02_325
+#Split in new
+chr1	144592767	144604750	Sample_02_326
+#Split in new
+chr1	144592814	144604561	Sample_02_327
+#Split in new
+chr1	143978770	144038118	Sample_02_332
+#Split in new
+chr1	120747038	120773193	Sample_02_332
+#Split in new
+chr1	143979417	144011847	Sample_02_333
+#Split in new
+chr1	143978753	144038203	Sample_02_334
+#Split in new
+chr14	106549031	106562333	Sample_02_336
+#Split in new
+chr1	1578237	1596609	Sample_02_336
+#Split in new
+chrX	49001831	49034554	Sample_02_336
+#Split in new
+chrX	49004178	49034331	Sample_02_337
+#Split in new
+chr1	144592870	144595714	Sample_02_339
+#Split in new
+chr1	143983306	144013182	Sample_02_347
+#Split in new
+chr1	120748116	120768832	Sample_02_347
+#Split in new
+chr1	143983050	144037716	Sample_02_350
+#Partially deleted in new
+chr3	194032356	194054687	Sample_02_353
+#Partially deleted in new
+chr3	194014145	194054794	Sample_02_354
+#Split in new
+chr17	1010757	1027011	Sample_02_356
+#Split in new
+chr7	74251459	74269042	Sample_02_359
+#Split in new
+chr14	106789727	106816682	Sample_02_360
+#Split in new
+chr7	74250987	74269023	Sample_02_363
+#Split in new
+chr8	145321660	145331700	Sample_02_364
+#Split in new
+chr8	145490746	145500812	Sample_02_364
+#Split in new
+chr8	145471632	145518068	Sample_02_365
+#Split in new
+chr8	145302579	145332640	Sample_02_365
+#Split in new
+chr8	145490506	145517334	Sample_02_369
+#Split in new
+chr8	145321420	145331990	Sample_02_369
+#Split in new
+chr8	145321728	145332621	Sample_02_373
+#Split in new
+chr8	145489264	145499863	Sample_02_373
+#Split in new
+chr2	98000239	98038652	Sample_02_373
+#Split in new
+chr2	242743023	242757252	Sample_02_374
+#Split in new
+chr8	145480961	145504256	Sample_02_375
+#Split in new
+chr8	145311908	145332636	Sample_02_375
+#Split in new
+chr8	145489306	145502964	Sample_02_376
+#Split in new
+chr8	145323636	145329986	Sample_02_376
+#Split in new
+chr2	242743106	242755824	Sample_02_378
+#Split in new
+chr8	145490506	145517334	Sample_02_379
+#Split in new
+chr8	145321420	145331990	Sample_02_379
+#Split in new
+chr1	144674229	144710849	Sample_02_381
+#Partially deleted in new
+chr1	121483666	121485563	Sample_02_381
+#Split in new
+chr10	42596723	42600254	Sample_02_385
+#Split in new
+chr16	46385785	46428437	Sample_02_387
+#Split in new
+chr1	143982165	144013155	Sample_02_387
+#Split in new
+chr1	120749043	120769973	Sample_02_387
+#Split in new
+chr1	144593027	144595491	Sample_02_396
+#Partially deleted in new
+chr3	194014260	194074217	Sample_02_396
+#Split in new
+chr4	75452237	75485394	Sample_02_396
+#Split in new
+chr19	40369047	40412309	Sample_02_397
+#Split in new
+chr1	145082850	145145345	Sample_02_401
+#Split in new
+chr1	145082915	145145499	Sample_02_402
+#Split in new
+chr22	18048428	18061425	Sample_02_404
+#Split in new
+chr1	145089505	145098460	Sample_02_414
+#Split in new
+chr1	143980750	143994011	Sample_02_418
+#Split in new
+chr1	120764770	120771384	Sample_02_418
+#Split in new
+chr1	145083046	145100067	Sample_02_419
+#Split in new
+chr4	75460969	75487549	Sample_02_419
+#Split in new
+chr1	145091594	145153637	Sample_02_420
+#Split in new
+chr1	120752438	120767547	Sample_02_420
+#Partially deleted in new
+chr3	193963631	194054851	Sample_02_421
+#Split in new
+chr2	242737249	242752953	Sample_02_421
+#Split in new
+chr8	145489102	145517313	Sample_02_422
+#Split in new
+chr8	145320016	145332683	Sample_02_422
+#Split in new
+chr1	143982108	144011735	Sample_02_423
+#Split in new
+chr4	75477951	75493449	Sample_02_427
+#Partially deleted in new
+chr3	194013020	194053904	Sample_02_428
+#Split in new
+chr7	100608424	100629800	Sample_02_428
+#Split in new
+chr7	100608437	100629801	Sample_02_429
+#Partially deleted in new
+chr3	194012892	194054180	Sample_02_430
+#Split in new
+chr1	1579375	1596699	Sample_02_431
+#Split in new
+chr16	46385798	46433126	Sample_02_434
+#Partially deleted in new
+chr3	194032712	194052325	Sample_03_003
+#Split in new
+chr10	47044093	47109627	Sample_03_005
+#Split in new
+chr10	47043534	47109533	Sample_03_007
+#Split in new
+chr10	47043398	47110585	Sample_03_008
+#Split in new
+chr10	47043833	47103015	Sample_03_009
+#Split in new
+chr10	47043616	47110684	Sample_03_010
+#Split in new
+chr10	47052860	47060121	Sample_03_011
+#Split in new
+chr10	47043558	47111185	Sample_03_013
+#Split in new
+chr17	1010490	1027244	Sample_03_013
+#Split in new
+chr10	47052756	47103249	Sample_03_014
+#Split in new
+chr10	47043645	47109654	Sample_03_015
+#Split in new
+chr10	47043588	47097034	Sample_03_016
