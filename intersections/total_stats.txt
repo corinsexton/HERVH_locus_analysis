@@ -1,0 +1,180 @@
+
+kunarso_et_al/CTCF_hg38
+
+Original Count: 87856
+HERVH Count: 33
+Query Count: 1
+
+Total Intersections: 49
+
+
+
+kunarso_et_al/NANOG_hg38
+
+Original Count: 88339
+HERVH Count: 695
+Query Count: 1
+
+Total Intersections: 937
+
+
+
+kunarso_et_al/OCT4_hg38
+
+Original Count: 29711
+HERVH Count: 187
+Query Count: 1
+
+Total Intersections: 257
+
+
+
+barakat_et_al/ChIP-STARR-seq_enhancers_naive_hg38
+
+Original Count: 359341
+HERVH Count: 1600
+Query Count: 1
+
+Total Intersections: 4909
+
+
+
+barakat_et_al/ChIP-STARR-seq_enhancers_primed_hg38
+
+Original Count: 361189
+HERVH Count: 1606
+Query Count: 1
+
+Total Intersections: 4940
+
+
+
+tonekaboni_et_al/h7_COREs
+
+Original Count: 7597
+HERVH Count: 70
+Query Count: 1
+
+Total Intersections: 70
+
+
+
+tonekaboni_et_al/h1_COREs
+
+Original Count: 3929
+HERVH Count: 36
+Query Count: 1
+
+Total Intersections: 36
+
+
+
+jiang_et_al/TE_hg38
+
+Original Count: 6622856
+HERVH Count: 2058
+Query Count: 36078
+
+Total Intersections: 37192
+
+
+
+wang_et_al_HACER/GROseq-H1_ESCs-GSE64758_hg38
+
+Original Count: 1946
+HERVH Count: 465
+Query Count: 443
+
+Total Intersections: 468
+
+
+
+wang_et_al_HACER/GROseq-H1_ESCs-GSE61393_hg38
+
+Original Count: 15
+HERVH Count: 4
+Query Count: 4
+
+Total Intersections: 4
+
+
+
+wang_et_al_HACER/GROseq-H1_ESCs-GSE41009_hg38
+
+Original Count: 15768
+HERVH Count: 1030
+Query Count: 993
+
+Total Intersections: 1048
+
+
+
+wang_et_al_HACER/GROseq-H1_ESCs-E-MTAB-742_hg38
+
+Original Count: 218
+HERVH Count: 90
+Query Count: 87
+
+Total Intersections: 93
+
+
+
+lu_et_al/lu_coordinates_hg38
+
+Original Count: 128
+HERVH Count: 128
+Query Count: 1
+
+Total Intersections: 128
+
+
+
+wang_et_al/wang_coordinates_hg38
+
+Original Count: 1222
+HERVH Count: 1261
+Query Count: 1221
+
+Total Intersections: 1274
+
+
+
+zhang_et_al/zhang_et_al_labs_hg38
+
+Original Count: 1314
+HERVH Count: 1265
+Query Count: 1313
+
+Total Intersections: 1347
+
+
+
+barakat_et_al/Super-enhancers_primed_hg38
+
+Original Count: 1366
+HERVH Count: 120
+Query Count: 1
+
+Total Intersections: 120
+
+
+
+barakat_et_al/Super-enhancers_naive_hg38
+
+Original Count: 1154
+HERVH Count: 142
+Query Count: 1
+
+Total Intersections: 142
+
+
+
+jiang_et_al/SE_hg38
+
+Original Count: 330789
+HERVH Count: 1034
+Query Count: 509
+
+Total Intersections: 8319
+
+

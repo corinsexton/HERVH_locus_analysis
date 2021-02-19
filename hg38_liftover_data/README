@@ -1,0 +1,7 @@
+
+
+# must add labels to some datasets:
+
+./label_beds.py
+./clean_files.sh
+
