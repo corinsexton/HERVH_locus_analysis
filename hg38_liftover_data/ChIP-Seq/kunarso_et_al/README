@@ -1,0 +1,6 @@
+
+#vim
+
+:%s/\n/\tCTCF\r/
+:%s/\n/\tOCT4\r/
+:%s/\n/\tNANOG\r/

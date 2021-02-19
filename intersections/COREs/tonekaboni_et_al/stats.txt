@@ -1,0 +1,20 @@
+
+tonekaboni_et_al/h7_COREs
+
+Original Count: 7597
+HERVH Count: 70
+Query Count: 1
+
+Total Intersections: 70
+
+
+
+tonekaboni_et_al/h1_COREs
+
+Original Count: 3929
+HERVH Count: 36
+Query Count: 1
+
+Total Intersections: 36
+
+

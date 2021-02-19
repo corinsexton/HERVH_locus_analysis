@@ -1,0 +1,30 @@
+
+kunarso_et_al/CTCF_hg38
+
+Original Count: 87856
+HERVH Count: 33
+Query Count: 1
+
+Total Intersections: 49
+
+
+
+kunarso_et_al/NANOG_hg38
+
+Original Count: 88339
+HERVH Count: 695
+Query Count: 1
+
+Total Intersections: 937
+
+
+
+kunarso_et_al/OCT4_hg38
+
+Original Count: 29711
+HERVH Count: 187
+Query Count: 1
+
+Total Intersections: 257
+
+

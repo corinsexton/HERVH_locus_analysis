@@ -1,0 +1,20 @@
+
+barakat_et_al/Super-enhancers_primed_hg38
+
+Original Count: 1366
+HERVH Count: 120
+Query Count: 1
+
+Total Intersections: 120
+
+
+
+barakat_et_al/Super-enhancers_naive_hg38
+
+Original Count: 1154
+HERVH Count: 142
+Query Count: 1
+
+Total Intersections: 142
+
+

@@ -1,0 +1,10 @@
+
+ENdb_enhancer_hg38
+
+Original Count: 408
+HERVH Count: 7
+Query Count: 6
+
+Total Intersections: 7
+
+

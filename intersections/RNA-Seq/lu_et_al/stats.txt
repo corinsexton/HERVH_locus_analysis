@@ -1,0 +1,10 @@
+
+lu_et_al/lu_coordinates_hg38
+
+Original Count: 128
+HERVH Count: 128
+Query Count: 1
+
+Total Intersections: 128
+
+
