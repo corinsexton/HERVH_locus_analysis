@@ -84,14 +84,41 @@ listInput <- list(
 
 
 png("R/enhancer_meta_analysis/upset_plot.png",width = 2000, height = 1200, res = 200)
-upset(fromList(listInput),
+upset(fromList2(listInput),
+      query.legend = "bottom",
       nsets = length(listInput),
       order.by = "degree", 
       line.size = 0.5,
       sets.bar.color = brewer.pal(length(listInput),"Set2"),
       mainbar.y.label = "HERVH locus intersections",
       sets.x.label = "# HERVH loci in set",
-      text.scale = c(2, 1.3, 1, 1, 2, 1)
+      text.scale = c(2, 1.3, 1, 1, 2, 1),
+      queries = list(
+        list(
+          query = elements,
+          params = list("LTR_loc", '5prime'),
+          active = F,
+          query.name = "ltr location 5'"
+        ),
+        list(
+          query = elements,
+          params = list("LTR_loc", '3prime'),
+          active = F,
+          query.name = "ltr location 3'"
+        ),
+        list(
+          query = elements,
+          params = list("type", 'solo'),
+          active = T,
+          query.name = "solo LTRs"
+        )
+        # list(
+        #   query = elements,
+        #   params = list("type", 'flanked'),
+        #   active = F,
+        #   query.name = "Flanked"
+        # )
+      )
           )
 dev.off()
 
@@ -138,5 +165,41 @@ overlapGroups <- function (listInput, sort = TRUE) {
   attr(grouplist, "elements") <- unique(unlist(listInput))
   return(grouplist)
   # save element list to facilitate access using an index in case rownames are not named
+}
+
+
+fromList2 <- function (input) 
+{
+  elements <- unique(unlist(input))
+  
+  labs <- strsplit(elements,split =':')
+  labs <- do.call(rbind.data.frame,labs)
+  colnames(labs) <- c("type", "elements","id","LTR_loc")
+  
+  labs$type <- factor(labs$type, levels = c("solo","flanked", "nonflanked"))
+  
+  data <- unlist(lapply(input, function(x) {
+    x <- as.vector(match(elements, x))
+  }))
+  data[is.na(data)] <- as.integer(0)
+  data[data != 0] <- as.integer(1)
+  data <- data.frame(matrix(data, ncol = length(input), byrow = F))
+
+  data <- data[which(rowSums(data) != 0), ]
+  names(data) <- names(input)
+  data <- cbind.data.frame(elements,labs,data)
+  data[data$type != 'nonflanked',]$LTR_loc = NA
+  
+  
+  # SUBSET SETS
+  ids <- paste0(data$barakat_naive_CSS, data$barakat_primed_CSS,
+                data$jiang_TEs, data$kunarso_NANOG, data$kunarso_OCT4,
+                data$GRO_seq,data$wang_active_RNAseq,data$lu_active_RNAseq)
+  
+  gt20 <- names(table(ids)[table(ids) > 20])
+  data <- data[which(ids %in% gt20),]
+  data <- as.data.frame(data)
+  
+  return(data)
 }
 
