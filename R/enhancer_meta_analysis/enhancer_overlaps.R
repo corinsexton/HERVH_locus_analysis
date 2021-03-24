@@ -74,13 +74,14 @@ listInput <- list(
                   barakat_naive_CSS = barakat_naive_CSS$hervh_id,
                   barakat_primed_CSS = barakat_primed_CSS$hervh_id,
                   jiang_TEs = jiang_TEs$hervh_id,
-                  # jiang_SEs = jiang_SEs$hervh_id,
+                  jiang_SEs = jiang_SEs$hervh_id,
                   kunarso_NANOG = kunarso_NANOG$hervh_id,
                   # kunarso_CTCF = kunarso_CTCF$hervh_id,
-                  kunarso_OCT4 = kunarso_OCT4$hervh_id,
-                  GRO_seq = GRO_seq$hervh_id,
+                  #kunarso_OCT4 = kunarso_OCT4$hervh_id,
+                  #GRO_seq = GRO_seq$hervh_id,
                   wang_active_RNAseq = wang_active_RNAseq$hervh_id,
                   lu_active_RNAseq = lu_active_RNAseq$hervh_id)
+
 
 
 png("R/enhancer_meta_analysis/upset_plot.png",width = 2000, height = 1200, res = 200)
@@ -89,23 +90,23 @@ upset(fromList2(listInput),
       nsets = length(listInput),
       order.by = "degree", 
       line.size = 0.5,
-      sets.bar.color = brewer.pal(length(listInput),"Set2"),
+      # sets.bar.color = brewer.pal(length(listInput),"Set2"),
       mainbar.y.label = "HERVH locus intersections",
       sets.x.label = "# HERVH loci in set",
       text.scale = c(2, 1.3, 1, 1, 2, 1),
       queries = list(
-        list(
-          query = elements,
-          params = list("LTR_loc", '5prime'),
-          active = F,
-          query.name = "ltr location 5'"
-        ),
-        list(
-          query = elements,
-          params = list("LTR_loc", '3prime'),
-          active = F,
-          query.name = "ltr location 3'"
-        ),
+        # list(
+        #   query = elements,
+        #   params = list("LTR_loc", '5prime'),
+        #   active = F,
+        #   query.name = "ltr location 5'"
+        # ),
+        # list(
+        #   query = elements,
+        #   params = list("LTR_loc", '3prime'),
+        #   active = F,
+        #   query.name = "ltr location 3'"
+        # ),
         list(
           query = elements,
           params = list("type", 'solo'),
@@ -123,9 +124,28 @@ upset(fromList2(listInput),
 dev.off()
 
 li <- overlapGroups(listInput, sort = T)
-attr(li, "elements")[li[[12]]]
+candidate_loci <- attr(li, "elements")[li[[8]]]
 
+write_tsv(data.frame(candidate_loci), "candidate_loci_noOCT4-GRO.txt")
 
+# ENRICHMENT
+# Initialize variables
+m <- 65       # Genes IN GO term (intersected elements)
+n <- 2215       # Genes NOT IN GO term (All elements - intersect)
+k <- 50       # Gene hits, that is, differentially expressed (non-solo LTRs)
+x <- 15  # Genes both IN GO term and differentially expressed 'hits' (solo LTRS)
+
+# Use the dhyper built-in function for hypergeometric density
+probabilities <- dhyper(x, m, n, k, log = FALSE,)
+fisher.test()
+probabilities
+
+#1,090 solo elements,  1,190 non solo
+soloLTRs <- matrix(c(105, 985, 214, 976),
+                   nrow = 2,
+                   dimnames = list(intersect = c("in Intersect", "Not in Intersect"),
+                                   sololtrs = c("solo LTR", "non-solo LTR")))
+fisher.test(soloLTRs, alternative = 'less')
 
 
 ##### Extra function:
@@ -192,11 +212,13 @@ fromList2 <- function (input)
   
   
   # SUBSET SETS
-  ids <- paste0(data$barakat_naive_CSS, data$barakat_primed_CSS,
-                data$jiang_TEs, data$kunarso_NANOG, data$kunarso_OCT4,
-                data$GRO_seq,data$wang_active_RNAseq,data$lu_active_RNAseq)
+  ids <- paste0(#data$barakat_naive_SE, data$barakat_primed_SE,
+                data$barakat_naive_CSS, data$barakat_primed_CSS,
+                data$jiang_TEs, data$jiang_SEs,
+                data$kunarso_NANOG, data$kunarso_OCT4,
+                data$GRO_seq, data$wang_active_RNAseq, data$lu_active_RNAseq)
   
-  gt20 <- names(table(ids)[table(ids) > 20])
+  gt20 <- names(table(ids)[table(ids) > 10])
   data <- data[which(ids %in% gt20),]
   data <- as.data.frame(data)
   
